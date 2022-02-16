@@ -1,0 +1,1072 @@
+name	type	label	passes	num_identical	note	strain_name	label_w_strain_name
+1953646701	ncbi	Streptococcus_chenjunshii			NR_171502.1	strain Z15 16S ribosomal RNA, partial sequence	gi_2180566477_Streptococcus_catagoni
+1953646512	ncbi	Streptococcus_chenjunshii			NR_171408.1	strain Z15 16S ribosomal RNA, partial sequence	gi_1953646701_Streptococcus_chenjunshii
+1953646511	ncbi	Streptococcus_chenjunshii			NR_171407.1	strain Z15 16S ribosomal RNA, partial sequence	gi_1953646512_Streptococcus_chenjunshii
+1811131565	ncbi	Streptococcus_periodonticum			NR_165747.1	strain ChDC F135 16S ribosomal RNA, partial sequence	gi_1953646511_Streptococcus_chenjunshii
+1811131562	ncbi	Streptococcus_gwangjuense			NR_165744.1	strain ChDC B345 16S ribosomal RNA, partial sequence	gi_1811131565_Streptococcus_periodonticum
+1811131559	ncbi	Streptococcus_chosunense			NR_165741.1	strain ChDC B353 16S ribosomal RNA, partial sequence	gi_1811131562_Streptococcus_gwangjuense
+1811131555	ncbi	Streptococcus_koreensis			NR_165737.1	strain KCOM 2890 16S ribosomal RNA, partial sequence	gi_1811131559_Streptococcus_chosunense
+1491516030	ncbi	Streptococcus_azizii			NR_159228.1	strain 12-5202 16S ribosomal RNA, partial sequence	gi_1811131555_Streptococcus_koreensis
+1491509609	ncbi	Streptococcus_ovuberis			NR_159140.1	strain VB15-00779 16S ribosomal RNA, partial sequence	gi_1491516030_Streptococcus_azizii
+1445136024	ncbi	Streptococcus_ruminantium			NR_158064.1	strain GUT-187 16S ribosomal RNA, partial sequence	gi_1491509609_Streptococcus_ovuberis
+1397641793	ncbi	Streptococcus_caviae			NR_156902.1	strain Cavy grass 6 16S ribosomal RNA, partial sequence	gi_1445136024_Streptococcus_ruminantium
+1384992323	ncbi	Streptococcus_himalayensis			NR_156072.1	strain HTS2 16S ribosomal RNA, partial sequence	gi_1397641793_Streptococcus_caviae
+1315204009	ncbi	Streptococcus_marmotae			NR_152678.1	strain HTS5 16S ribosomal RNA, partial sequence	gi_1384992323_Streptococcus_himalayensis
+1277396350	ncbi	Streptococcus_halotolerans			NR_152063.1	strain HTS9 16S ribosomal RNA, partial sequence	gi_1315204009_Streptococcus_marmotae
+1277396343	ncbi	Streptococcus_dentiloxodontae			NR_152054.1	strain NUM2404 16S ribosomal RNA, partial sequence	gi_1277396350_Streptococcus_halotolerans
+1277396266	ncbi	Streptococcus_pantholopis			NR_151977.1	strain TA 26 16S ribosomal RNA, partial sequence	gi_1277396343_Streptococcus_dentiloxodontae
+1227086052	ncbi	Streptococcus_oricebi			NR_148589.1	strain M8 16S ribosomal RNA, partial sequence	gi_1277396266_Streptococcus_pantholopis
+1199303385	ncbi	Streptococcus_caprae			NR_147736.1	strain DICM07-02790-1C 16S ribosomal RNA, partial sequence	gi_1227086052_Streptococcus_oricebi
+1146059218	ncbi	Streptococcus_panodentis			NR_145950.1	strain TKU50 16S ribosomal RNA, partial sequence	gi_1199303385_Streptococcus_caprae
+1033657129	ncbi	Streptococcus_pharyngis			NR_137219.1	strain DICM10-00796B 16S ribosomal RNA, partial sequence	gi_1146059218_Streptococcus_panodentis
+961555221	ncbi	Streptococcus_cuniculi			NR_134190.1	strain : NED12-00049-6B 16S ribosomal RNA, partial sequence	gi_1033657129_Streptococcus_pharyngis
+959495018	ncbi	Streptococcus_phocae			NR_133868.1	subsp. salmonis strain C-4 16S ribosomal RNA, partial sequence	gi_961555221_Streptococcus_cuniculi
+699005309	ncbi	Streptococcus_saliviloxodontae			NR_126178.1	strain NUM 6306 16S ribosomal RNA, partial sequence	gi_959495018_Streptococcus_phocae
+699005308	ncbi	Streptococcus_loxodontisalivarius			NR_126177.1	strain NUM 6304 16S ribosomal RNA, partial sequence	gi_699005309_Streptococcus_saliviloxodontae
+645322121	ncbi	Streptococcus_alactolyticus			NR_118941.1	strain NCDO 1091 16S ribosomal RNA, partial sequence	gi_699005308_Streptococcus_loxodontisalivarius
+645321326	ncbi	Streptococcus_constellatus			NR_118319.1	subsp. viborgensis SK1359 16S ribosomal RNA, partial sequence	gi_645322121_Streptococcus_alactolyticus
+645321325	ncbi	Streptococcus_constellatus			NR_118318.1	subsp. pharyngis SK1060 = CCUG 46377 16S ribosomal RNA, partial sequence	gi_645321326_Streptococcus_constellatus
+645321286	ncbi	Streptococcus_anginosus			NR_118289.1	16S ribosomal RNA, partial sequence	gi_645321325_Streptococcus_constellatus
+645320869	ncbi	Streptococcus_hongkongensis			NR_117974.1	strain HKU30 16S ribosomal RNA, partial sequence	gi_645321286_Streptococcus_anginosus
+645320150	ncbi	Streptococcus_lactarius			NR_117425.1	strain MV1 16S ribosomal RNA, partial sequence	gi_645320869_Streptococcus_hongkongensis
+645320084	ncbi	Streptococcus_danieliae			NR_117375.1	strain ERD01G 16S ribosomal RNA, partial sequence	gi_645320150_Streptococcus_lactarius
+636559030	ncbi	Streptococcus_porci			NR_115087.1	strain 2923-03 16S ribosomal RNA, partial sequence	gi_645320084_Streptococcus_danieliae
+636558795	ncbi	Streptococcus_ferus			NR_114852.1	strain 8S1 16S ribosomal RNA, partial sequence	gi_636559030_Streptococcus_porci
+631252375	ncbi	Streptococcus_troglodytae			NR_113573.1	strain TKU 31 16S ribosomal RNA, partial sequence	gi_636558795_Streptococcus_ferus
+631252363	ncbi	Streptococcus_dentasini			NR_113561.1	strain NUM 1808 16S ribosomal RNA, partial sequence	gi_631252375_Streptococcus_troglodytae
+631252362	ncbi	Streptococcus_orisasini			NR_113560.1	strain NUM 1801 16S ribosomal RNA, partial sequence	gi_631252363_Streptococcus_dentasini
+631251762	ncbi	Streptococcus_fryi			NR_112960.1	strain PAGU 653 16S ribosomal RNA, partial sequence	gi_631252362_Streptococcus_orisasini
+631251721	ncbi	Streptococcus_ursoris			NR_112919.1	strain NUM 1615 16S ribosomal RNA, partial sequence	gi_631251762_Streptococcus_fryi
+631251633	ncbi	Streptococcus_dentapri			NR_112831.1	strain NUM 1529 16S ribosomal RNA, partial sequence	gi_631251721_Streptococcus_ursoris
+566084933	ncbi	Streptococcus_porcorum			NR_108477.1	strain 682/03 16S ribosomal RNA, partial sequence	gi_631251633_Streptococcus_dentapri
+526641946	ncbi	Streptococcus_cristatus			NR_103943.1	AS 1.3089 16S ribosomal RNA, partial sequence	gi_566084933_Streptococcus_porcorum
+343206312	ncbi	Streptococcus_gallolyticus			NR_044904.1	strain ACM 3611 16S ribosomal RNA, partial sequence	gi_526641946_Streptococcus_cristatus
+343203761	ncbi	Streptococcus_pseudoporcinus			NR_043704.1	LQ 940-04 16S ribosomal RNA, partial sequence	gi_343206312_Streptococcus_gallolyticus
+343202506	ncbi	Streptococcus_constellatus			NR_042833.1	subsp. pharyngis strain MM9889a 16S ribosomal RNA, partial sequence	gi_343203761_Streptococcus_pseudoporcinus
+343200773	ncbi	Streptococcus_dentirousetti			NR_041460.1	strain NUM 1303 16S ribosomal RNA, partial sequence	gi_343202506_Streptococcus_constellatus
+343200368	ncbi	Streptococcus_orisuis			NR_041055.1	strain NUM 1001 16S ribosomal RNA, partial sequence	gi_343200773_Streptococcus_dentirousetti
+343198966	ncbi	Streptococcus_caballi			NR_044190.1	strain 151 16S ribosomal RNA, partial sequence	gi_343200368_Streptococcus_orisuis
+343198965	ncbi	Streptococcus_henryi			NR_044189.1	strain 126 16S ribosomal RNA, partial sequence	gi_343198966_Streptococcus_caballi
+343198648	ncbi	Streptococcus_massiliensis			NR_043173.1	strain 4401825 16S ribosomal RNA, partial sequence	gi_343198965_Streptococcus_henryi
+310975232	ncbi	Streptococcus_lutetiensis			NR_037096.1	strain HDP90246 16S ribosomal RNA, partial sequence	gi_343198648_Streptococcus_massiliensis
+224581432	ncbi	Streptococcus_pseudopneumoniae			NR_027214.1	strain 108 16S ribosomal RNA, partial sequence	gi_310975232_Streptococcus_lutetiensis
+974142298	ncbi	Streptococcus_tangierensis			NR_134818.1	strain CCMM B832 16S ribosomal RNA, partial sequence	gi_224581432_Streptococcus_pseudopneumoniae
+974142297	ncbi	Streptococcus_cameli			NR_134817.1	strain CCMM B834 16S ribosomal RNA, partial sequence	gi_974142298_Streptococcus_tangierensis
+961555223	ncbi	Streptococcus_rifensis			NR_134192.1	strain CCMM B833 16S ribosomal RNA, partial sequence	gi_974142297_Streptococcus_cameli
+961555222	ncbi	Streptococcus_moroccensis			NR_134191.1	strain CCMM B831 16S ribosomal RNA, partial sequence	gi_961555223_Streptococcus_rifensis
+645322192	ncbi	Streptococcus_thermophilus			NR_118998.1	strain DSM 20617 16S ribosomal RNA, partial sequence	gi_961555222_Streptococcus_moroccensis
+645322122	ncbi	Streptococcus_vestibularis			NR_118942.1	ATCC 49124 strain NCTC 12166 16S ribosomal RNA, partial sequence	gi_645322192_Streptococcus_thermophilus
+645322118	ncbi	Streptococcus_pneumoniae			NR_118939.1	strain NCTC 7465 16S ribosomal RNA, partial sequence	gi_645322122_Streptococcus_vestibularis
+645322117	ncbi	Streptococcus_intermedius			NR_118938.1	strain NCTC 11324 16S ribosomal RNA, partial sequence	gi_645322118_Streptococcus_pneumoniae
+645322115	ncbi	Streptococcus_anginosus			NR_118937.1	strain NCTC 10713 16S ribosomal RNA, partial sequence	gi_645322117_Streptococcus_intermedius
+645322114	ncbi	Streptococcus_sobrinus			NR_118935.1	strain DSM 20742 16S ribosomal RNA, partial sequence	gi_645322115_Streptococcus_anginosus
+645322113	ncbi	Streptococcus_downei			NR_118934.1	MFe28 16S ribosomal RNA, partial sequence	gi_645322114_Streptococcus_sobrinus
+645322111	ncbi	Streptococcus_mutans			NR_118933.1	strain NCTC 10449 16S ribosomal RNA, partial sequence	gi_645322113_Streptococcus_downei
+645322110	ncbi	Streptococcus_macacae			NR_118932.1	strain NCTC 11558 16S ribosomal RNA, partial sequence	gi_645322111_Streptococcus_mutans
+645321328	ncbi	Streptococcus_anginosus			NR_118320.1	subsp. whileyi strain CCUG 39159 16S ribosomal RNA, partial sequence	gi_645322110_Streptococcus_macacae
+645321306	ncbi	Streptococcus_dysgalactiae			NR_118304.1	subsp. equisimilis strain CCUG 36637 16S ribosomal RNA, partial sequence	gi_645321328_Streptococcus_anginosus
+645321304	ncbi	Streptococcus_dysgalactiae			NR_118303.1	strain CCUG 27301 16S ribosomal RNA, partial sequence	gi_645321306_Streptococcus_dysgalactiae
+645321213	ncbi	Streptococcus_oralis			NR_118234.1	subsp. tigurinus AZ_3a 16S ribosomal RNA, partial sequence	gi_645321304_Streptococcus_dysgalactiae
+645320536	ncbi	Streptococcus_oralis			NR_117719.1	subsp. dentisani strain 7747 16S ribosomal RNA, partial sequence	gi_645321213_Streptococcus_oralis
+645320255	ncbi	Streptococcus_suis			NR_117504.1	strain ATCC 43765 16S ribosomal RNA, partial sequence	gi_645320536_Streptococcus_oralis
+645320253	ncbi	Streptococcus_agalactiae			NR_117503.1	ATCC 13813 16S ribosomal RNA, partial sequence	gi_645320255_Streptococcus_suis
+645320244	ncbi	Streptococcus_pneumoniae			NR_117496.1	strain ATCC 33400 16S ribosomal RNA, partial sequence	gi_645320253_Streptococcus_agalactiae
+645320152	ncbi	Streptococcus_anginosus			NR_117426.1	SK52 = DSM 20563 16S ribosomal RNA, partial sequence	gi_645320244_Streptococcus_pneumoniae
+636560153	ncbi	Streptococcus_pseudopneumoniae			NR_116213.1	ATCC BAA-960 = CCUG 49455 16S ribosomal RNA, partial sequence	gi_645320152_Streptococcus_anginosus
+636560152	ncbi	Streptococcus_peroris			NR_116212.1	ATCC 700780 strain CCUG 39814 16S ribosomal RNA, partial sequence	gi_636560153_Streptococcus_pseudopneumoniae
+636560151	ncbi	Streptococcus_parasanguinis			NR_116211.1	ATCC 15912 16S ribosomal RNA, partial sequence	gi_636560152_Streptococcus_peroris
+636560150	ncbi	Streptococcus_oralis			NR_116210.1	ATCC 35037 16S ribosomal RNA, partial sequence	gi_636560151_Streptococcus_parasanguinis
+636560149	ncbi	Streptococcus_cristatus			NR_116209.1	AS 1.3089 16S ribosomal RNA, partial sequence	gi_636560150_Streptococcus_oralis
+636560148	ncbi	Streptococcus_mutans			NR_116208.1	strain ATCC 25175 16S ribosomal RNA, partial sequence	gi_636560149_Streptococcus_cristatus
+636560147	ncbi	Streptococcus_mitis			NR_116207.1	strain ATCC 49456 16S ribosomal RNA, partial sequence	gi_636560148_Streptococcus_mutans
+636560146	ncbi	Streptococcus_infantis			NR_116206.1	ATCC 700779 strain CCUG 39817 16S ribosomal RNA, partial sequence	gi_636560147_Streptococcus_mitis
+636560145	ncbi	Streptococcus_gordonii			NR_116205.1	strain ATCC 10558 16S ribosomal RNA, partial sequence	gi_636560146_Streptococcus_infantis
+636560144	ncbi	Streptococcus_cristatus			NR_116204.1	ATCC 51100 16S ribosomal RNA, partial sequence	gi_636560145_Streptococcus_gordonii
+636559952	ncbi	Streptococcus_equi			NR_116012.1	subsp. ruminatorum CECT 5772 strain CCUG 47520 16S ribosomal RNA, partial sequence	gi_636560144_Streptococcus_cristatus
+636559951	ncbi	Streptococcus_equi			NR_116011.1	subsp. zooepidemicus strain ATCC 43079 16S ribosomal RNA, partial sequence	gi_636559952_Streptococcus_equi
+636559950	ncbi	Streptococcus_equi			NR_116010.1	strain ATCC 33398 16S ribosomal RNA, partial sequence	gi_636559951_Streptococcus_equi
+636559742	ncbi	Streptococcus_ictaluri			NR_115802.1	707-05 16S ribosomal RNA, partial sequence	gi_636559950_Streptococcus_equi
+636559678	ncbi	Streptococcus_urinalis			NR_115738.1	strain 2285-97 16S ribosomal RNA, partial sequence	gi_636559742_Streptococcus_ictaluri
+636559677	ncbi	Streptococcus_suis			NR_115737.1	strain ATCC 43765 16S ribosomal RNA, partial sequence	gi_636559678_Streptococcus_urinalis
+636559676	ncbi	Streptococcus_sanguinis			NR_115736.1	SK1 = NCTC 7863 16S ribosomal RNA, partial sequence	gi_636559677_Streptococcus_suis
+636559675	ncbi	Streptococcus_parasanguinis			NR_115735.1	ATCC 15912 16S ribosomal RNA, partial sequence	gi_636559676_Streptococcus_sanguinis
+636559674	ncbi	Streptococcus_oralis			NR_115734.1	strain CCUG 24891 16S ribosomal RNA, partial sequence	gi_636559675_Streptococcus_parasanguinis
+636559673	ncbi	Streptococcus_mutans			NR_115733.1	strain ATCC 25175 16S ribosomal RNA, partial sequence	gi_636559674_Streptococcus_oralis
+636559672	ncbi	Streptococcus_mitis			NR_115732.1	strain ATCC 49456 16S ribosomal RNA, partial sequence	gi_636559673_Streptococcus_mutans
+636559671	ncbi	Streptococcus_iniae			NR_115731.1	strain ATCC 29178 16S ribosomal RNA, partial sequence	gi_636559672_Streptococcus_mitis
+636559670	ncbi	Streptococcus_didelphis			NR_115730.1	strain ATCC 700828 16S ribosomal RNA, partial sequence	gi_636559671_Streptococcus_iniae
+636559669	ncbi	Streptococcus_canis			NR_115729.1	strain ATCC 43496 16S ribosomal RNA, partial sequence	gi_636559670_Streptococcus_didelphis
+636559668	ncbi	Streptococcus_agalactiae			NR_115728.1	ATCC 13813 16S ribosomal RNA, partial sequence	gi_636559669_Streptococcus_canis
+636559659	ncbi	Streptococcus_lutetiensis			NR_115719.1	strain CIP 106849 16S ribosomal RNA, partial sequence	gi_636559668_Streptococcus_agalactiae
+636559501	ncbi	Streptococcus_gordonii			NR_115561.1	strain NCTC7865 16S ribosomal RNA, partial sequence	gi_636559659_Streptococcus_lutetiensis
+636559500	ncbi	Streptococcus_mitis			NR_115560.1	strain NCTC12261 16S ribosomal RNA, partial sequence	gi_636559501_Streptococcus_gordonii
+636559219	ncbi	Streptococcus_ferus			NR_115276.1	strain ATCC 33477 16S ribosomal RNA, partial sequence	gi_636559500_Streptococcus_mitis
+636559218	ncbi	Streptococcus_dysgalactiae			NR_115275.1	strain ATCC 43078 16S ribosomal RNA, partial sequence	gi_636559219_Streptococcus_ferus
+636559217	ncbi	Streptococcus_cristatus			NR_115274.1	ATCC 51100 16S ribosomal RNA, partial sequence	gi_636559218_Streptococcus_dysgalactiae
+636559185	ncbi	Streptococcus_gordonii			NR_115242.1	strain ATCC 10558 16S ribosomal RNA, partial sequence	gi_636559217_Streptococcus_cristatus
+636559184	ncbi	Streptococcus_parasanguinis			NR_115241.1	ATCC 15912 16S ribosomal RNA, partial sequence	gi_636559185_Streptococcus_gordonii
+636559183	ncbi	Streptococcus_mitis			NR_115240.1	strain ATCC 49456 16S ribosomal RNA, partial sequence	gi_636559184_Streptococcus_parasanguinis
+636559182	ncbi	Streptococcus_pneumoniae			NR_115239.1	strain ATCC 33400 16S ribosomal RNA, partial sequence	gi_636559183_Streptococcus_mitis
+636559090	ncbi	Streptococcus_dysgalactiae			NR_115147.1	strain ATCC 43078 16S ribosomal RNA, partial sequence	gi_636559182_Streptococcus_pneumoniae
+636558797	ncbi	Streptococcus_downei			NR_114854.1	MFe28 16S ribosomal RNA, partial sequence	gi_636559090_Streptococcus_dysgalactiae
+636558796	ncbi	Streptococcus_macacae			NR_114853.1	strain NCTC 11558 16S ribosomal RNA, partial sequence	gi_636558797_Streptococcus_downei
+636558670	ncbi	Streptococcus_sobrinus			NR_114727.1	strain NCTC 12279 16S ribosomal RNA, partial sequence	gi_636558796_Streptococcus_macacae
+636558669	ncbi	Streptococcus_mutans			NR_114726.1	strain NCTC 10449 16S ribosomal RNA, partial sequence	gi_636558670_Streptococcus_sobrinus
+636558585	ncbi	Streptococcus_equinus			NR_114642.1	strain NCDO 1037 16S ribosomal RNA, partial sequence	gi_636558669_Streptococcus_mutans
+636558499	ncbi	Streptococcus_phocae			NR_114556.1	strain 8399 H1 16S ribosomal RNA, partial sequence	gi_636558585_Streptococcus_equinus
+636558481	ncbi	Streptococcus_australis			NR_114537.1	ATCC 700641 strain AI1 16S ribosomal RNA, partial sequence	gi_636558499_Streptococcus_phocae
+631253215	ncbi	Streptococcus_oralis			NR_114413.1	ATCC 35037 16S ribosomal RNA, partial sequence	gi_636558481_Streptococcus_australis
+631252974	ncbi	Streptococcus_pneumoniae			NR_114172.1	strain NBRC 102642 16S ribosomal RNA, partial sequence	gi_631253215_Streptococcus_oralis
+631252443	ncbi	Streptococcus_mutans			NR_113641.1	strain NBRC 13955 16S ribosomal RNA, partial sequence	gi_631252974_Streptococcus_pneumoniae
+631252396	ncbi	Streptococcus_equinus			NR_113594.1	strain NBRC 12553 16S ribosomal RNA, partial sequence	gi_631252443_Streptococcus_mutans
+631252064	ncbi	Streptococcus_agalactiae			NR_113262.1	ATCC 13813 strain JCM 5671 16S ribosomal RNA, partial sequence	gi_631252396_Streptococcus_equinus
+631252062	ncbi	Streptococcus_sanguinis			NR_113260.1	strain JCM 5708 16S ribosomal RNA, partial sequence	gi_631252064_Streptococcus_agalactiae
+631251508	ncbi	Streptococcus_anginosus			NR_112705.1	SK52 = DSM 20563 16S ribosomal RNA, partial sequence	gi_631252062_Streptococcus_sanguinis
+631251507	ncbi	Streptococcus_constellatus			NR_112704.1	strain ATCC 27823 16S ribosomal RNA, partial sequence	gi_631251508_Streptococcus_anginosus
+631250891	ncbi	Streptococcus_pyogenes			NR_112088.1	strain JCM 5674 16S ribosomal RNA, partial sequence	gi_631251507_Streptococcus_constellatus
+631250830	ncbi	Streptococcus_infantis			NR_112026.1	ATCC 700779 strain GTC 849 16S ribosomal RNA, partial sequence	gi_631250891_Streptococcus_pyogenes
+631250829	ncbi	Streptococcus_cristatus			NR_112025.1	ATCC 51100 strain NCTC 12479 16S ribosomal RNA, partial sequence	gi_631250830_Streptococcus_infantis
+631250799	ncbi	Streptococcus_sanguinis			NR_111994.1	SK1 = NCTC 7863 16S ribosomal RNA, partial sequence	gi_631250829_Streptococcus_cristatus
+566085621	ncbi	Streptococcus_rubneri			NR_109720.1	strain LMG 27207 16S ribosomal RNA, partial sequence	gi_631250799_Streptococcus_sanguinis
+566085341	ncbi	Streptococcus_troglodytidis			NR_109371.1	strain M09-11185 16S ribosomal RNA, partial sequence	gi_566085621_Streptococcus_rubneri
+566084941	ncbi	Streptococcus_rupicaprae			NR_108485.1	strain 2777-2-07 16S ribosomal RNA, partial sequence	gi_566085341_Streptococcus_troglodytidis
+559795398	ncbi	Streptococcus_infantarius			NR_104991.1	strain HDP90056 16S ribosomal RNA, partial sequence	gi_566084941_Streptococcus_rupicaprae
+559795379	ncbi	Streptococcus_acidominimus			NR_104972.1	strain LMG 17755 16S ribosomal RNA, partial sequence	gi_559795398_Streptococcus_infantarius
+559795378	ncbi	Streptococcus_pluranimalium			NR_104971.1	strain T70 16S ribosomal RNA, partial sequence	gi_559795379_Streptococcus_acidominimus
+343206320	ncbi	Streptococcus_hyovaginalis			NR_044912.1	strain SHV515 16S ribosomal RNA, partial sequence	gi_559795378_Streptococcus_pluranimalium
+343203751	ncbi	Streptococcus_equi			NR_043703.1	strain ATCC 33398 16S ribosomal RNA, partial sequence	gi_343206320_Streptococcus_hyovaginalis
+343203349	ncbi	Streptococcus_dysgalactiae			NR_043661.1	subsp. equisimilis strain CIP 105120 16S ribosomal RNA, partial sequence	gi_343203751_Streptococcus_equi
+343203338	ncbi	Streptococcus_pasteurianus			NR_043660.1	strain CIP 107122 16S ribosomal RNA, partial sequence	gi_343203349_Streptococcus_dysgalactiae
+343202620	ncbi	Streptococcus_parauberis			NR_043001.1	strain DSM 6631 16S ribosomal RNA, partial sequence	gi_343203338_Streptococcus_pasteurianus
+343202571	ncbi	Streptococcus_infantis			NR_042928.1	ATCC 700779 16S ribosomal RNA, partial sequence	gi_343202620_Streptococcus_parauberis
+343202570	ncbi	Streptococcus_oralis			NR_042927.1	ATCC 35037 16S ribosomal RNA, partial sequence	gi_343202571_Streptococcus_infantis
+343202363	ncbi	Streptococcus_plurextorum			NR_042649.1	strain 1956-02 16S ribosomal RNA, partial sequence	gi_343202570_Streptococcus_oralis
+343202267	ncbi	Streptococcus_merionis			NR_042553.1	strain WUE3771 16S ribosomal RNA, partial sequence	gi_343202363_Streptococcus_plurextorum
+343201501	ncbi	Streptococcus_phocae			NR_042227.1	strain CCUG 35103 16S ribosomal RNA, partial sequence	gi_343202267_Streptococcus_merionis
+343201489	ncbi	Streptococcus_castoreus			NR_042215.1	strain M605815/03/2 16S ribosomal RNA, partial sequence	gi_343201501_Streptococcus_phocae
+343201393	ncbi	Streptococcus_criceti			NR_042119.1	strain ATCC 19642 16S ribosomal RNA, partial sequence	gi_343201489_Streptococcus_castoreus
+343201325	ncbi	Streptococcus_lutetiensis			NR_042051.1	strain NEM 782 16S ribosomal RNA, partial sequence	gi_343201393_Streptococcus_criceti
+343201094	ncbi	Streptococcus_alactolyticus			NR_041781.1	strain ATCC 43077 16S ribosomal RNA, partial sequence	gi_343201325_Streptococcus_lutetiensis
+343201093	ncbi	Streptococcus_hyointestinalis			NR_041780.1	strain ATCC 49169 16S ribosomal RNA, partial sequence	gi_343201094_Streptococcus_alactolyticus
+343201034	ncbi	Streptococcus_constellatus			NR_041721.1	strain ATCC 27823 16S ribosomal RNA, partial sequence	gi_343201093_Streptococcus_hyointestinalis
+343200133	ncbi	Streptococcus_uberis			NR_040820.1	strain JCM 5709 16S ribosomal RNA, partial sequence	gi_343201034_Streptococcus_constellatus
+343198522	ncbi	Streptococcus_thermophilus			NR_042778.1	strain ATCC 19258 16S ribosomal RNA, partial sequence	gi_343200133_Streptococcus_uberis
+343198521	ncbi	Streptococcus_vestibularis			NR_042777.1	ATCC 49124 16S ribosomal RNA, partial sequence	gi_343198522_Streptococcus_thermophilus
+343198520	ncbi	Streptococcus_salivarius			NR_042776.1	strain ATCC 7073 16S ribosomal RNA, partial sequence	gi_343198521_Streptococcus_vestibularis
+343198519	ncbi	Streptococcus_macacae			NR_042775.1	NCTC 11558 strain ATCC 35911 16S ribosomal RNA, partial sequence	gi_343198520_Streptococcus_salivarius
+343198518	ncbi	Streptococcus_downei			NR_042774.1	MFe28 16S ribosomal RNA, partial sequence	gi_343198519_Streptococcus_macacae
+343198517	ncbi	Streptococcus_sobrinus			NR_042773.1	strain ATCC 33478 16S ribosomal RNA, partial sequence	gi_343198518_Streptococcus_downei
+343198516	ncbi	Streptococcus_mutans			NR_042772.1	strain ATCC 25175 16S ribosomal RNA, partial sequence	gi_343198517_Streptococcus_sobrinus
+343198515	ncbi	Streptococcus_cristatus			NR_042771.1	ATCC 51100 16S ribosomal RNA, partial sequence	gi_343198516_Streptococcus_mutans
+310975138	ncbi	Streptococcus_macedonicus			NR_037002.1	strain LAB617 16S ribosomal RNA, partial sequence	gi_343198515_Streptococcus_cristatus
+310975054	ncbi	Streptococcus_suis			NR_036918.1	strain S735 16S ribosomal RNA, partial sequence	gi_310975138_Streptococcus_macedonicus
+310974981	ncbi	Streptococcus_ferus			NR_036845.1	strain 8S1 16S ribosomal RNA, partial sequence	gi_310975054_Streptococcus_suis
+310974896	ncbi	Streptococcus_equi			NR_036758.1	subsp. zooepidemicus strain ATCC 43079 16S ribosomal RNA, partial sequence	gi_310974981_Streptococcus_ferus
+265678747	ncbi	Streptococcus_cristatus			NR_029052.1	strain 2-4 16S ribosomal RNA, partial sequence	gi_310974896_Streptococcus_equi
+265678720	ncbi	Streptococcus_halichoeri			NR_029025.1	strain M512/02/1 16S ribosomal RNA, partial sequence	gi_265678747_Streptococcus_cristatus
+265678710	ncbi	Streptococcus_devriesei			NR_029015.1	strain CCUG 47155 16S ribosomal RNA, partial sequence	gi_265678720_Streptococcus_halichoeri
+265678529	ncbi	Streptococcus_sinensis			NR_028833.1	strain HKU4 16S ribosomal RNA, partial sequence	gi_265678710_Streptococcus_devriesei
+265678434	ncbi	Streptococcus_intermedius			NR_028736.1	strain 1877 16S ribosomal RNA, partial sequence	gi_265678529_Streptococcus_sinensis
+265678364	ncbi	Streptococcus_gordonii			NR_028666.1	strain SK3 16S ribosomal RNA, partial sequence	gi_265678434_Streptococcus_intermedius
+265678363	ncbi	Streptococcus_pneumoniae			NR_028665.1	strain ATCC 33400 16S ribosomal RNA, partial sequence	gi_265678364_Streptococcus_gordonii
+265678362	ncbi	Streptococcus_mitis			NR_028664.1	strain NS51 16S ribosomal RNA, partial sequence	gi_265678363_Streptococcus_pneumoniae
+265678297	ncbi	Streptococcus_pyogenes			NR_028598.1	strain I-273 16S ribosomal RNA, partial sequence	gi_265678362_Streptococcus_mitis
+228715345	ncbi	Streptococcus_dysgalactiae			NR_027517.1	strain ATCC 43078 16S ribosomal RNA, partial sequence	gi_265678297_Streptococcus_pyogenes
+219878377	ncbi	Streptococcus_ratti			NR_025516.1	strain ATCC 19645 16S ribosomal RNA, partial sequence	gi_228715345_Streptococcus_dysgalactiae
+219878361	ncbi	Streptococcus_entericus			NR_025500.1	strain CECT 5353 16S ribosomal RNA, partial sequence	gi_219878377_Streptococcus_ratti
+219878314	ncbi	Streptococcus_gallinaceus			NR_025453.1	strain CCUG 42692 16S ribosomal RNA, partial sequence	gi_219878361_Streptococcus_entericus
+219857560	ncbi	Streptococcus_iniae			NR_025148.1	strain ATCC 29178 16S ribosomal RNA, partial sequence	gi_219878314_Streptococcus_gallinaceus
+219857448	ncbi	Streptococcus_didelphis			NR_025036.1	strain W94-11374-1 16S ribosomal RNA, partial sequence	gi_219857560_Streptococcus_iniae
+219857386	ncbi	Streptococcus_orisratti			NR_024974.1	strain A63 16S ribosomal RNA, partial sequence	gi_219857448_Streptococcus_didelphis
+219856815	ncbi	Streptococcus_porcinus			NR_024634.1	strain 176 16S ribosomal RNA, partial sequence	gi_219857386_Streptococcus_orisratti
+219856814	ncbi	Streptococcus_canis			NR_024633.1	strain STR T1 16S ribosomal RNA, partial sequence	gi_219856815_Streptococcus_porcinus
+219846879	ncbi	Streptococcus_ovis			NR_026471.1	strain S369-98-1 16S ribosomal RNA, partial sequence	gi_219856814_Streptococcus_canis
+219846776	ncbi	Streptococcus_thoraltensis			NR_026368.1	strain S69 16S ribosomal RNA, partial sequence	gi_219846879_Streptococcus_ovis
+219846139	ncbi	Streptococcus_minor			NR_025729.1	strain ON59 16S ribosomal RNA, partial sequence	gi_219846776_Streptococcus_thoraltensis
+219846040	ncbi	Streptococcus_marimammalium			NR_025630.1	strain M54/01/1 16S ribosomal RNA, partial sequence	gi_219846139_Streptococcus_minor
+1269847384	ncbi	Streptococcus_anginosus			NR_041722.2	SK52 = DSM 20563 16S ribosomal RNA, complete sequence	gi_219846040_Streptococcus_marimammalium
+343201326	ncbi	Streptococcus_equinus			NR_042052.1	ATCC 9812 16S ribosomal RNA, partial sequence	gi_1269847384_Streptococcus_anginosus
+343200134	ncbi	Streptococcus_agalactiae			NR_040821.1	ATCC 13813 strain JCM 5671 16S ribosomal RNA, partial sequence	gi_343201326_Streptococcus_equinus
+310975072	ncbi	Streptococcus_australis			NR_036936.1	strain AI-1 16S ribosomal RNA, partial sequence	gi_343200134_Streptococcus_agalactiae
+219878470	ncbi	Streptococcus_equi			NR_025609.1	subsp. ruminatorum CECT 5772 16S ribosomal RNA, partial sequence	gi_310975072_Streptococcus_australis
+m54257_210914_210835/4587786/ccs	pacbio	1558	46.0	14957.0			gi_219878470_Streptococcus_equi
+m54257_210915_072622/4456783/ccs	pacbio	1068	49.0	6958.0			m54257_210914_210835/4587786/ccs_1558
+m54257_210914_041224/4195024/ccs	pacbio	1135	49.0	4177.0			m54257_210915_072622/4456783/ccs_1068
+m54257_210915_072622/11600428/ccs	pacbio	1068	60.0	2551.0			m54257_210914_041224/4195024/ccs_1135
+m54257_210414_133237/30409100/ccs	pacbio	uid_375649	21.0	2043.0			m54257_210915_072622/11600428/ccs_1068
+m54257_210913_175418/4194410/ccs	pacbio	1332	47.0	1626.0			m54257_210414_133237/30409100/ccs_uid_375649
+m54257_210414_133237/11272553/ccs	pacbio	uid_375699	10.0	1410.0			m54257_210913_175418/4194410/ccs_1332
+m54257_210914_041224/4259993/ccs	pacbio	1135	55.0	1201.0			m54257_210414_133237/11272553/ccs_uid_375699
+m54257_210914_210835/4981544/ccs	pacbio	1558	49.0	1158.0			m54257_210914_041224/4259993/ccs_1135
+m54257_210914_210835/29294790/ccs	pacbio	80	49.0	1043.0			m54257_210914_210835/4981544/ccs_1558
+m54257_210914_041224/4194723/ccs	pacbio	1135	60.0	1021.0			m54257_210914_210835/29294790/ccs_80
+m54257_210914_041224/9699512/ccs	pacbio	1606	49.0	774.0			m54257_210914_041224/4194723/ccs_1135
+m54257_210914_210835/11272733/ccs	pacbio	1068	49.0	762.0			m54257_210914_041224/9699512/ccs_1606
+m54257_210913_175418/26017996/ccs	pacbio	1010	36.0	653.0			m54257_210914_210835/11272733/ccs_1068
+m54257_210915_072622/14484061/ccs	pacbio	1068	19.0	632.0			m54257_210913_175418/26017996/ccs_1010
+m54257_210414_133237/4194770/ccs	pacbio	uid_375712	26.0	618.0			m54257_210915_072622/14484061/ccs_1068
+m54257_210425_012457/4391463/ccs	pacbio	uid_375747	53.0	567.0			m54257_210414_133237/4194770/ccs_uid_375712
+m54257_210914_210835/4916034/ccs	pacbio	1558	37.0	534.0			m54257_210425_012457/4391463/ccs_uid_375747
+m54257_210414_133237/4391667/ccs	pacbio	uid_375733	16.0	515.0			m54257_210914_210835/4916034/ccs_1558
+m54257_210915_072622/68616779/ccs	pacbio	257	41.0	514.0			m54257_210414_133237/4391667/ccs_uid_375733
+m54257_210914_041224/4391567/ccs	pacbio	916	32.0	493.0			m54257_210915_072622/68616779/ccs_257
+m54257_210425_012457/4260792/ccs	pacbio	uid_375800	11.0	477.0			m54257_210914_041224/4391567/ccs_916
+m54257_210425_012457/4850573/ccs	pacbio	uid_375766	43.0	474.0			m54257_210425_012457/4260792/ccs_uid_375800
+m54257_210425_012457/11534433/ccs	pacbio	uid_375800	54.0	421.0			m54257_210425_012457/4850573/ccs_uid_375766
+m54257_210414_133237/4195018/ccs	pacbio	uid_375716	20.0	414.0			m54257_210425_012457/11534433/ccs_uid_375800
+m54257_210414_133237/4391460/ccs	pacbio	uid_375733	21.0	405.0			m54257_210414_133237/4195018/ccs_uid_375716
+m54257_210914_041224/4522960/ccs	pacbio	1281	15.0	372.0			m54257_210414_133237/4391460/ccs_uid_375733
+m54257_210425_012457/4194777/ccs	pacbio	uid_375739	21.0	331.0			m54257_210914_041224/4522960/ccs_1281
+m54257_210914_041224/4260086/ccs	pacbio	1135	20.0	319.0			m54257_210425_012457/4194777/ccs_uid_375739
+m54257_210913_175418/4391135/ccs	pacbio	1313	36.0	315.0			m54257_210914_041224/4260086/ccs_1135
+m54257_210914_041224/4653614/ccs	pacbio	1135	46.0	301.0			m54257_210913_175418/4391135/ccs_1313
+m54257_210425_012457/12255862/ccs	pacbio	uid_375818	62.0	291.0			m54257_210914_041224/4653614/ccs_1135
+m54257_210914_041224/4522346/ccs	pacbio	916	13.0	285.0			m54257_210425_012457/12255862/ccs_uid_375818
+m54257_210915_072622/31129702/ccs	pacbio	1068	46.0	279.0			m54257_210914_041224/4522346/ccs_916
+m54257_210414_133237/4325869/ccs	pacbio	uid_375726	18.0	279.0			m54257_210915_072622/31129702/ccs_1068
+m54257_210914_210835/12714175/ccs	pacbio	1558	58.0	279.0			m54257_210414_133237/4325869/ccs_uid_375726
+m54257_210425_012457/4456762/ccs	pacbio	uid_375794	16.0	276.0			m54257_210914_210835/12714175/ccs_1558
+m54257_210425_012457/4260235/ccs	pacbio	uid_375794	34.0	271.0			m54257_210425_012457/4456762/ccs_uid_375794
+m54257_210914_041224/4325978/ccs	pacbio	1135	34.0	263.0			m54257_210425_012457/4260235/ccs_uid_375794
+m54257_210915_072622/11535091/ccs	pacbio	1597	29.0	251.0			m54257_210914_041224/4325978/ccs_1135
+m54257_210425_012457/4325576/ccs	pacbio	uid_375794	57.0	239.0			m54257_210915_072622/11535091/ccs_1597
+m54257_210914_041224/16581022/ccs	pacbio	1135	16.0	215.0			m54257_210425_012457/4325576/ccs_uid_375794
+m54257_210914_041224/4850297/ccs	pacbio	1135	63.0	214.0			m54257_210914_041224/16581022/ccs_1135
+m54257_210414_133237/4260253/ccs	pacbio	uid_375721	23.0	208.0			m54257_210914_041224/4850297/ccs_1135
+m54257_210914_210835/47383287/ccs	pacbio	2072	25.0	207.0			m54257_210414_133237/4260253/ccs_uid_375721
+m54257_210914_041224/14615132/ccs	pacbio	1133	20.0	205.0			m54257_210914_210835/47383287/ccs_2072
+m54257_210914_210835/44630843/ccs	pacbio	1558	14.0	202.0			m54257_210914_041224/14615132/ccs_1133
+m54257_210914_041224/11469300/ccs	pacbio	1135	23.0	177.0			m54257_210914_210835/44630843/ccs_1558
+m54257_210914_041224/4784600/ccs	pacbio	1135	52.0	176.0			m54257_210914_041224/11469300/ccs_1135
+m54257_210914_041224/4522224/ccs	pacbio	1135	30.0	174.0			m54257_210914_041224/4784600/ccs_1135
+m54257_210425_012457/4260025/ccs	pacbio	uid_375816	16.0	173.0			m54257_210914_041224/4522224/ccs_1135
+m54257_210914_041224/22283174/ccs	pacbio	1135	36.0	172.0			m54257_210425_012457/4260025/ccs_uid_375816
+m54257_210914_041224/18285204/ccs	pacbio	1135	26.0	172.0			m54257_210914_041224/22283174/ccs_1135
+m54257_210913_175418/4587773/ccs	pacbio	1973	23.0	166.0			m54257_210914_041224/18285204/ccs_1135
+m54257_210915_072622/13828783/ccs	pacbio	1068	64.0	164.0			m54257_210913_175418/4587773/ccs_1973
+m54257_210914_041224/54067687/ccs	pacbio	1135	38.0	158.0			m54257_210915_072622/13828783/ccs_1068
+m54257_210914_041224/18612816/ccs	pacbio	1135	12.0	156.0			m54257_210914_041224/54067687/ccs_1135
+m54257_210914_041224/4719571/ccs	pacbio	1135	58.0	153.0			m54257_210914_041224/18612816/ccs_1135
+m54257_210915_072622/20644097/ccs	pacbio	1068	9.0	151.0			m54257_210914_041224/4719571/ccs_1135
+m54257_210425_012457/4326031/ccs	pacbio	uid_375747	55.0	146.0			m54257_210915_072622/20644097/ccs_1068
+m54257_210425_012457/4457027/ccs	pacbio	uid_375800	21.0	144.0			m54257_210425_012457/4326031/ccs_uid_375747
+m54257_210914_210835/43647910/ccs	pacbio	1558	66.0	134.0			m54257_210425_012457/4457027/ccs_uid_375800
+m54257_210914_041224/17301791/ccs	pacbio	1135	71.0	130.0			m54257_210914_210835/43647910/ccs_1558
+m54257_210914_041224/4326027/ccs	pacbio	1135	51.0	126.0			m54257_210914_041224/17301791/ccs_1135
+m54257_210914_210835/23659360/ccs	pacbio	1068	51.0	109.0			m54257_210914_041224/4326027/ccs_1135
+m54257_210914_041224/4850050/ccs	pacbio	1928	57.0	107.0			m54257_210914_210835/23659360/ccs_1068
+m54257_210913_175418/22938241/ccs	pacbio	1740	10.0	105.0			m54257_210914_041224/4850050/ccs_1928
+m54257_210414_133237/4456884/ccs	pacbio	uid_375716	8.0	101.0			m54257_210913_175418/22938241/ccs_1740
+m54257_210915_072622/35782731/ccs	pacbio	1068	47.0	100.0			m54257_210414_133237/4456884/ccs_uid_375716
+m54257_210915_072622/14287821/ccs	pacbio	1068	58.0	100.0			m54257_210915_072622/35782731/ccs_1068
+m54257_210425_012457/11862246/ccs	pacbio	uid_375813	33.0	99.0			m54257_210915_072622/14287821/ccs_1068
+m54257_210913_175418/24117382/ccs	pacbio	1281	46.0	98.0			m54257_210425_012457/11862246/ccs_uid_375813
+m54257_210914_041224/15794743/ccs	pacbio	1135	50.0	97.0			m54257_210913_175418/24117382/ccs_1281
+m54257_210914_041224/34669290/ccs	pacbio	1135	20.0	97.0			m54257_210914_041224/15794743/ccs_1135
+m54257_210914_041224/11600574/ccs	pacbio	1135	20.0	92.0			m54257_210914_041224/34669290/ccs_1135
+m54257_210915_072622/4587832/ccs	pacbio	1068	26.0	91.0			m54257_210914_041224/11600574/ccs_1135
+m54257_210914_041224/4391587/ccs	pacbio	1135	37.0	91.0			m54257_210915_072622/4587832/ccs_1068
+m54257_210914_041224/29295572/ccs	pacbio	1148	57.0	90.0			m54257_210914_041224/4391587/ccs_1135
+m54257_210914_210835/21758745/ccs	pacbio	1558	38.0	88.0			m54257_210914_041224/29295572/ccs_1148
+m54257_210913_175418/4915848/ccs	pacbio	1332	41.0	86.0			m54257_210914_210835/21758745/ccs_1558
+m54257_210914_210835/4653429/ccs	pacbio	1435	32.0	82.0			m54257_210913_175418/4915848/ccs_1332
+m54257_210414_133237/11534535/ccs	pacbio	uid_375716	14.0	82.0			m54257_210914_210835/4653429/ccs_1435
+m54257_210913_175418/35914547/ccs	pacbio	1550	39.0	81.0			m54257_210414_133237/11534535/ccs_uid_375716
+m54257_210425_012457/11403569/ccs	pacbio	uid_375816	18.0	81.0			m54257_210913_175418/35914547/ccs_1550
+m54257_210414_133237/4260730/ccs	pacbio	uid_375703	22.0	80.0			m54257_210425_012457/11403569/ccs_uid_375816
+m54257_210913_175418/17957156/ccs	pacbio	1550	19.0	79.0			m54257_210414_133237/4260730/ccs_uid_375703
+m54257_210914_041224/15860262/ccs	pacbio	1135	22.0	78.0			m54257_210913_175418/17957156/ccs_1550
+m54257_210914_041224/12649091/ccs	pacbio	1135	44.0	76.0			m54257_210914_041224/15860262/ccs_1135
+m54257_210913_175418/30671049/ccs	pacbio	1471	12.0	75.0			m54257_210914_041224/12649091/ccs_1135
+m54257_210425_012457/13763104/ccs	pacbio	uid_375800	23.0	75.0			m54257_210913_175418/30671049/ccs_1471
+m54257_210914_210835/4260186/ccs	pacbio	1327	32.0	75.0			m54257_210425_012457/13763104/ccs_uid_375800
+m54257_210414_133237/11272730/ccs	pacbio	uid_375703	49.0	74.0			m54257_210914_210835/4260186/ccs_1327
+m54257_210914_210835/11796921/ccs	pacbio	1558	55.0	73.0			m54257_210414_133237/11272730/ccs_uid_375703
+m54257_210425_012457/4784810/ccs	pacbio	uid_375757	58.0	72.0			m54257_210914_210835/11796921/ccs_1558
+m54257_210914_041224/13435759/ccs	pacbio	1135	39.0	72.0			m54257_210425_012457/4784810/ccs_uid_375757
+m54257_210914_210835/11928526/ccs	pacbio	1243	68.0	71.0			m54257_210914_041224/13435759/ccs_1135
+m54257_210414_133237/12452527/ccs	pacbio	uid_375699	25.0	71.0			m54257_210914_210835/11928526/ccs_1243
+m54257_210914_041224/12255994/ccs	pacbio	1135	35.0	70.0			m54257_210414_133237/12452527/ccs_uid_375699
+m54257_210914_041224/11731036/ccs	pacbio	1135	19.0	70.0			m54257_210914_041224/12255994/ccs_1135
+m54257_210915_072622/64226013/ccs	pacbio	257	22.0	70.0			m54257_210914_041224/11731036/ccs_1135
+m54257_210425_012457/11731878/ccs	pacbio	uid_375800	73.0	69.0			m54257_210915_072622/64226013/ccs_257
+m54257_210914_210835/27722141/ccs	pacbio	1068	43.0	66.0			m54257_210425_012457/11731878/ccs_uid_375800
+m54257_210425_012457/4849786/ccs	pacbio	uid_375747	37.0	64.0			m54257_210914_210835/27722141/ccs_1068
+m54257_210913_175418/4915305/ccs	pacbio	1740	48.0	64.0			m54257_210425_012457/4849786/ccs_uid_375747
+m54257_210914_041224/12517743/ccs	pacbio	1135	35.0	64.0			m54257_210913_175418/4915305/ccs_1740
+m54257_210914_210835/30606032/ccs	pacbio	1558	29.0	62.0			m54257_210914_041224/12517743/ccs_1135
+m54257_210913_175418/45941702/ccs	pacbio	1550	24.0	62.0			m54257_210914_210835/30606032/ccs_1558
+m54257_210914_041224/4194466/ccs	pacbio	1135	62.0	62.0			m54257_210913_175418/45941702/ccs_1550
+m54257_210914_041224/4850168/ccs	pacbio	1135	20.0	62.0			m54257_210914_041224/4194466/ccs_1135
+m54257_210914_041224/16646386/ccs	pacbio	1135	21.0	61.0			m54257_210914_041224/4850168/ccs_1135
+m54257_210913_175418/11599970/ccs	pacbio	1332	50.0	61.0			m54257_210914_041224/16646386/ccs_1135
+m54257_210914_210835/13763107/ccs	pacbio	1435	20.0	60.0			m54257_210913_175418/11599970/ccs_1332
+m54257_210914_041224/30212423/ccs	pacbio	1139	12.0	59.0			m54257_210914_210835/13763107/ccs_1435
+m54257_210914_041224/18350513/ccs	pacbio	1135	25.0	58.0			m54257_210914_041224/30212423/ccs_1139
+m54257_210914_210835/36897183/ccs	pacbio	1558	24.0	58.0			m54257_210914_041224/18350513/ccs_1135
+m54257_210914_210835/12452324/ccs	pacbio	1447	10.0	56.0			m54257_210914_210835/36897183/ccs_1558
+m54257_210425_181849/5767429/ccs	pacbio	uid_375753	22.0	56.0			m54257_210914_210835/12452324/ccs_1447
+m54257_210913_175418/19989009/ccs	pacbio	1135	34.0	56.0			m54257_210425_181849/5767429/ccs_uid_375753
+m54257_210425_012457/12124816/ccs	pacbio	uid_375805	13.0	56.0			m54257_210913_175418/19989009/ccs_1135
+m54257_210914_041224/19792195/ccs	pacbio	1135	31.0	55.0			m54257_210425_012457/12124816/ccs_uid_375805
+m54257_210914_041224/16712222/ccs	pacbio	1135	23.0	54.0			m54257_210914_041224/19792195/ccs_1135
+m54257_210914_041224/63243222/ccs	pacbio	1135	52.0	54.0			m54257_210914_041224/16712222/ccs_1135
+m54257_210914_210835/4981168/ccs	pacbio	1435	13.0	54.0			m54257_210914_041224/63243222/ccs_1135
+m54257_210914_210835/47383226/ccs	pacbio	1447	31.0	54.0			m54257_210914_210835/4981168/ccs_1435
+m54257_210914_041224/8520013/ccs	pacbio	1074	20.0	53.0			m54257_210914_210835/47383226/ccs_1447
+m54257_210914_041224/14549767/ccs	pacbio	1313	39.0	52.0			m54257_210914_041224/8520013/ccs_1074
+m54257_210914_210835/19202160/ccs	pacbio	1702	16.0	51.0			m54257_210914_041224/14549767/ccs_1313
+m54257_210913_175418/15139277/ccs	pacbio	1262	36.0	51.0			m54257_210914_210835/19202160/ccs_1702
+m54257_210425_012457/12321418/ccs	pacbio	uid_375794	18.0	51.0			m54257_210913_175418/15139277/ccs_1262
+m54257_210913_175418/12583204/ccs	pacbio	1973	32.0	50.0			m54257_210425_012457/12321418/ccs_uid_375794
+m54257_210914_041224/4653587/ccs	pacbio	1135	20.0	50.0			m54257_210913_175418/12583204/ccs_1973
+m54257_210425_012457/14614901/ccs	pacbio	uid_375779	13.0	49.0			m54257_210914_041224/4653587/ccs_1135
+m54257_210914_210835/11403621/ccs	pacbio	2054	53.0	49.0			m54257_210425_012457/14614901/ccs_uid_375779
+m54257_210914_210835/32112883/ccs	pacbio	202	13.0	49.0			m54257_210914_210835/11403621/ccs_2054
+m54257_210425_012457/16253780/ccs	pacbio	uid_375747	18.0	48.0			m54257_210914_210835/32112883/ccs_202
+m54257_210914_210835/12321706/ccs	pacbio	1746	62.0	48.0			m54257_210425_012457/16253780/ccs_uid_375747
+m54257_210414_133237/4588473/ccs	pacbio	uid_375733	44.0	47.0			m54257_210914_210835/12321706/ccs_1746
+m54257_210414_133237/22938048/ccs	pacbio	uid_375699	55.0	45.0			m54257_210414_133237/4588473/ccs_uid_375733
+m54257_210914_041224/13238420/ccs	pacbio	1135	33.0	45.0			m54257_210414_133237/22938048/ccs_uid_375699
+m54257_210914_210835/17432992/ccs	pacbio	1435	41.0	45.0			m54257_210914_041224/13238420/ccs_1135
+m54257_210913_175418/12976919/ccs	pacbio	1740	15.0	45.0			m54257_210914_210835/17432992/ccs_1435
+m54257_210914_210835/18809617/ccs	pacbio	80	13.0	45.0			m54257_210913_175418/12976919/ccs_1740
+m54257_210914_041224/4915389/ccs	pacbio	1135	55.0	45.0			m54257_210914_210835/18809617/ccs_80
+m54257_210414_133237/4588312/ccs	pacbio	uid_375716	65.0	45.0			m54257_210914_041224/4915389/ccs_1135
+m54257_210914_210835/47120476/ccs	pacbio	1327	17.0	45.0			m54257_210414_133237/4588312/ccs_uid_375716
+m54257_210915_072622/23527692/ccs	pacbio	1099	35.0	44.0			m54257_210914_210835/47120476/ccs_1327
+m54257_210414_133237/12190176/ccs	pacbio	uid_375659	23.0	44.0			m54257_210915_072622/23527692/ccs_1099
+m54257_210913_175418/25625307/ccs	pacbio	1262	18.0	44.0			m54257_210414_133237/12190176/ccs_uid_375659
+m54257_210913_175418/4915900/ccs	pacbio	1332	37.0	44.0			m54257_210913_175418/25625307/ccs_1262
+m54257_210914_041224/12386753/ccs	pacbio	916	27.0	44.0			m54257_210913_175418/4915900/ccs_1332
+m54257_210914_041224/4588008/ccs	pacbio	1135	16.0	44.0			m54257_210914_041224/12386753/ccs_916
+m54257_210914_041224/14549572/ccs	pacbio	1135	52.0	44.0			m54257_210914_041224/4588008/ccs_1135
+m54257_210914_041224/14418612/ccs	pacbio	1135	63.0	43.0			m54257_210914_041224/14549572/ccs_1135
+m54257_210425_012457/11337829/ccs	pacbio	uid_375746	41.0	43.0			m54257_210914_041224/14418612/ccs_1135
+m54257_210914_041224/11469264/ccs	pacbio	1135	21.0	43.0			m54257_210425_012457/11337829/ccs_uid_375746
+m54257_210914_041224/14680634/ccs	pacbio	1135	47.0	43.0			m54257_210914_041224/11469264/ccs_1135
+m54257_210914_210835/4195201/ccs	pacbio	1327	15.0	43.0			m54257_210914_041224/14680634/ccs_1135
+m54257_210914_210835/11993435/ccs	pacbio	1327	49.0	43.0			m54257_210914_210835/4195201/ccs_1327
+m54257_210915_072622/14418443/ccs	pacbio	11	48.0	42.0			m54257_210914_210835/11993435/ccs_1327
+m54257_210913_175418/4915636/ccs	pacbio	1973	26.0	42.0			m54257_210915_072622/14418443/ccs_11
+m54257_210414_133237/15007984/ccs	pacbio	uid_375726	58.0	42.0			m54257_210913_175418/4915636/ccs_1973
+m54257_210915_072622/4981236/ccs	pacbio	1558	49.0	41.0			m54257_210414_133237/15007984/ccs_uid_375726
+m54257_210914_210835/52822926/ccs	pacbio	80	19.0	40.0			m54257_210915_072622/4981236/ccs_1558
+m54257_210414_133237/13108192/ccs	pacbio	uid_375716	18.0	39.0			m54257_210914_210835/52822926/ccs_80
+m54257_210914_210835/17433592/ccs	pacbio	2054	45.0	39.0			m54257_210414_133237/13108192/ccs_uid_375716
+m54257_210914_041224/34537974/ccs	pacbio	1298	37.0	39.0			m54257_210914_210835/17433592/ccs_2054
+m54257_210425_012457/18219602/ccs	pacbio	uid_375747	13.0	38.0			m54257_210914_041224/34537974/ccs_1298
+m54257_210914_041224/38339477/ccs	pacbio	1135	59.0	37.0			m54257_210425_012457/18219602/ccs_uid_375747
+m54257_210425_012457/12583192/ccs	pacbio	uid_375747	18.0	37.0			m54257_210914_041224/38339477/ccs_1135
+m54257_210913_175418/12583126/ccs	pacbio	1332	28.0	37.0			m54257_210425_012457/12583192/ccs_uid_375747
+m54257_210914_210835/27460111/ccs	pacbio	1483	27.0	36.0			m54257_210913_175418/12583126/ccs_1332
+m54257_210425_012457/22217194/ccs	pacbio	uid_375800	42.0	36.0			m54257_210914_210835/27460111/ccs_1483
+m54257_210414_133237/11206796/ccs	pacbio	uid_375733	52.0	36.0			m54257_210425_012457/22217194/ccs_uid_375800
+m54257_210425_012457/14091001/ccs	pacbio	uid_375743	23.0	35.0			m54257_210414_133237/11206796/ccs_uid_375733
+m54257_210913_175418/37945699/ccs	pacbio	1305	33.0	35.0			m54257_210425_012457/14091001/ccs_uid_375743
+m54257_210914_210835/17039634/ccs	pacbio	1746	41.0	35.0			m54257_210913_175418/37945699/ccs_1305
+m54257_210914_210835/15598376/ccs	pacbio	1068	23.0	35.0			m54257_210914_210835/17039634/ccs_1746
+m54257_210425_012457/11797347/ccs	pacbio	uid_375796	73.0	35.0			m54257_210914_210835/15598376/ccs_1068
+m54257_210425_012457/11600822/ccs	pacbio	uid_375791	57.0	34.0			m54257_210425_012457/11797347/ccs_uid_375796
+m54257_210425_012457/13632220/ccs	pacbio	uid_375751	19.0	34.0			m54257_210425_012457/11600822/ccs_uid_375791
+m54257_210914_041224/4391672/ccs	pacbio	160	19.0	34.0			m54257_210425_012457/13632220/ccs_uid_375751
+m54257_210914_041224/35193522/ccs	pacbio	1135	13.0	34.0			m54257_210914_041224/4391672/ccs_160
+m54257_210425_012457/12387060/ccs	pacbio	uid_375803	24.0	33.0			m54257_210914_041224/35193522/ccs_1135
+m54257_210914_210835/25756096/ccs	pacbio	1068	44.0	33.0			m54257_210425_012457/12387060/ccs_uid_375803
+m54257_210414_133237/12779758/ccs	pacbio	uid_375659	10.0	33.0			m54257_210914_210835/25756096/ccs_1068
+m54257_210914_210835/17957030/ccs	pacbio	2054	39.0	33.0			m54257_210414_133237/12779758/ccs_uid_375659
+m54257_210913_175418/13369559/ccs	pacbio	1550	38.0	33.0			m54257_210914_210835/17957030/ccs_2054
+m54257_210914_041224/41418936/ccs	pacbio	1135	49.0	33.0			m54257_210913_175418/13369559/ccs_1550
+m54257_210913_175418/23790455/ccs	pacbio	2252	37.0	33.0			m54257_210914_041224/41418936/ccs_1135
+m54257_210915_072622/72942519/ccs	pacbio	1068	18.0	33.0			m54257_210913_175418/23790455/ccs_2252
+m54257_210914_210835/21561728/ccs	pacbio	2314	28.0	33.0			m54257_210915_072622/72942519/ccs_1068
+m54257_210913_175418/30868011/ccs	pacbio	1313	27.0	33.0			m54257_210914_210835/21561728/ccs_2314
+m54257_210914_210835/42009053/ccs	pacbio	169	59.0	32.0			m54257_210913_175418/30868011/ccs_1313
+m54257_210425_012457/4654046/ccs	pacbio	uid_375790	36.0	32.0			m54257_210914_210835/42009053/ccs_169
+m54257_210914_041224/11535241/ccs	pacbio	1928	70.0	32.0			m54257_210425_012457/4654046/ccs_uid_375790
+m54257_210914_210835/15794281/ccs	pacbio	1435	39.0	32.0			m54257_210914_041224/11535241/ccs_1928
+m54257_210913_175418/67633876/ccs	pacbio	1740	9.0	32.0			m54257_210914_210835/15794281/ccs_1435
+m54257_210913_175418/18481624/ccs	pacbio	1313	13.0	32.0			m54257_210913_175418/67633876/ccs_1740
+m54257_210914_210835/22741891/ccs	pacbio	1068	56.0	32.0			m54257_210913_175418/18481624/ccs_1313
+m54257_210914_041224/4850498/ccs	pacbio	1135	52.0	32.0			m54257_210914_210835/22741891/ccs_1068
+m54257_210425_012457/17563814/ccs	pacbio	uid_375800	26.0	32.0			m54257_210914_041224/4850498/ccs_1135
+m54257_210425_012457/18809556/ccs	pacbio	uid_375753	18.0	31.0			m54257_210425_012457/17563814/ccs_uid_375800
+m54257_210914_041224/4326046/ccs	pacbio	160	19.0	31.0			m54257_210425_012457/18809556/ccs_uid_375753
+m54257_210914_041224/12321356/ccs	pacbio	1135	38.0	31.0			m54257_210914_041224/4326046/ccs_160
+m54257_210914_210835/23659372/ccs	pacbio	1558	15.0	31.0			m54257_210914_041224/12321356/ccs_1135
+m54257_210914_041224/20513680/ccs	pacbio	1135	45.0	30.0			m54257_210914_210835/23659372/ccs_1558
+m54257_210914_041224/16973979/ccs	pacbio	1606	38.0	29.0			m54257_210914_041224/20513680/ccs_1135
+m54257_210425_012457/14090334/ccs	pacbio	uid_375800	48.0	29.0			m54257_210914_041224/16973979/ccs_1606
+m54257_210913_175418/25756105/ccs	pacbio	1262	34.0	29.0			m54257_210425_012457/14090334/ccs_uid_375800
+m54257_210914_041224/16253663/ccs	pacbio	1135	33.0	29.0			m54257_210913_175418/25756105/ccs_1262
+m54257_210914_210835/12255656/ccs	pacbio	1746	54.0	29.0			m54257_210914_041224/16253663/ccs_1135
+m54257_210914_210835/4325607/ccs	pacbio	1435	65.0	29.0			m54257_210914_210835/12255656/ccs_1746
+m54257_210914_041224/19268532/ccs	pacbio	1606	71.0	29.0			m54257_210914_210835/4325607/ccs_1435
+m54257_210914_041224/15073787/ccs	pacbio	1135	33.0	29.0			m54257_210914_041224/19268532/ccs_1606
+m54257_210914_210835/20971590/ccs	pacbio	1558	19.0	28.0			m54257_210914_041224/15073787/ccs_1135
+m54257_210914_041224/12714908/ccs	pacbio	1135	47.0	28.0			m54257_210914_210835/20971590/ccs_1558
+m54257_210914_210835/69402990/ccs	pacbio	1243	45.0	28.0			m54257_210914_041224/12714908/ccs_1135
+m54257_210425_012457/23199991/ccs	pacbio	uid_375800	60.0	28.0			m54257_210914_210835/69402990/ccs_1243
+m54257_210414_133237/4194976/ccs	pacbio	uid_375733	59.0	28.0			m54257_210425_012457/23199991/ccs_uid_375800
+m54257_210914_041224/16909057/ccs	pacbio	1135	21.0	28.0			m54257_210414_133237/4194976/ccs_uid_375733
+m54257_210425_012457/14876928/ccs	pacbio	uid_375818	38.0	28.0			m54257_210914_041224/16909057/ccs_1135
+m54257_210914_041224/31392507/ccs	pacbio	1135	23.0	28.0			m54257_210425_012457/14876928/ccs_uid_375818
+m54257_210425_012457/22413778/ccs	pacbio	uid_375791	17.0	28.0			m54257_210914_041224/31392507/ccs_1135
+m54257_210913_175418/11797168/ccs	pacbio	1313	22.0	27.0			m54257_210425_012457/22413778/ccs_uid_375791
+m54257_210913_175418/21824479/ccs	pacbio	1162	23.0	27.0			m54257_210913_175418/11797168/ccs_1313
+m54257_210914_041224/12714248/ccs	pacbio	1135	39.0	27.0			m54257_210913_175418/21824479/ccs_1162
+m54257_210915_072622/14222310/ccs	pacbio	1068	51.0	27.0			m54257_210914_041224/12714248/ccs_1135
+m54257_210915_072622/5243775/ccs	pacbio	1068	13.0	27.0			m54257_210915_072622/14222310/ccs_1068
+m54257_210414_133237/15008388/ccs	pacbio	uid_375716	18.0	27.0			m54257_210915_072622/5243775/ccs_1068
+m54257_210914_210835/73007898/ccs	pacbio	1558	10.0	27.0			m54257_210414_133237/15008388/ccs_uid_375716
+m54257_210913_175418/15008325/ccs	pacbio	1740	19.0	26.0			m54257_210914_210835/73007898/ccs_1558
+m54257_210914_041224/14811862/ccs	pacbio	1135	59.0	26.0			m54257_210913_175418/15008325/ccs_1740
+m54257_210914_041224/52363671/ccs	pacbio	1831	45.0	26.0			m54257_210914_041224/14811862/ccs_1135
+m54257_210913_175418/4326196/ccs	pacbio	1740	25.0	25.0			m54257_210914_041224/52363671/ccs_1831
+m54257_210425_012457/23397057/ccs	pacbio	uid_375747	47.0	25.0			m54257_210913_175418/4326196/ccs_1740
+m54257_210914_210835/38404414/ccs	pacbio	1447	40.0	25.0			m54257_210425_012457/23397057/ccs_uid_375747
+m54257_210913_175418/39387322/ccs	pacbio	1313	29.0	25.0			m54257_210914_210835/38404414/ccs_1447
+m54257_210914_210835/22347988/ccs	pacbio	1068	26.0	25.0			m54257_210913_175418/39387322/ccs_1313
+m54257_210414_133237/12649346/ccs	pacbio	uid_375685	17.0	24.0			m54257_210914_210835/22347988/ccs_1068
+m54257_210914_041224/15926251/ccs	pacbio	1135	30.0	24.0			m54257_210414_133237/12649346/ccs_uid_375685
+m54257_210914_210835/59834868/ccs	pacbio	80	16.0	24.0			m54257_210914_041224/15926251/ccs_1135
+m54257_210414_133237/4784276/ccs	pacbio	uid_375712	17.0	24.0			m54257_210914_210835/59834868/ccs_80
+m54257_210414_133237/12845201/ccs	pacbio	uid_375733	22.0	24.0			m54257_210414_133237/4784276/ccs_uid_375712
+m54257_210913_175418/48038273/ccs	pacbio	1606	29.0	24.0			m54257_210414_133237/12845201/ccs_uid_375733
+m54257_210914_210835/4653940/ccs	pacbio	1558	64.0	23.0			m54257_210913_175418/48038273/ccs_1606
+m54257_210913_175418/14418227/ccs	pacbio	1740	35.0	23.0			m54257_210914_210835/4653940/ccs_1558
+m54257_210914_041224/5177892/ccs	pacbio	160	35.0	23.0			m54257_210913_175418/14418227/ccs_1740
+m54257_210915_072622/41747007/ccs	pacbio	1068	14.0	23.0			m54257_210914_041224/5177892/ccs_160
+m54257_210425_012457/17236157/ccs	pacbio	uid_375747	24.0	23.0			m54257_210915_072622/41747007/ccs_1068
+m54257_210913_175418/16581329/ccs	pacbio	1479	19.0	23.0			m54257_210425_012457/17236157/ccs_uid_375747
+m54257_210914_041224/15860455/ccs	pacbio	1135	40.0	23.0			m54257_210913_175418/16581329/ccs_1479
+m54257_210914_041224/7012725/ccs	pacbio	1010	56.0	22.0			m54257_210914_041224/15860455/ccs_1135
+m54257_210913_175418/30999303/ccs	pacbio	1225	16.0	22.0			m54257_210914_041224/7012725/ccs_1010
+m54257_210414_133237/13763253/ccs	pacbio	uid_375703	54.0	22.0			m54257_210913_175418/30999303/ccs_1225
+m54257_210914_041224/20447945/ccs	pacbio	1135	21.0	22.0			m54257_210414_133237/13763253/ccs_uid_375703
+m54257_210414_133237/4719483/ccs	pacbio	uid_375726	27.0	22.0			m54257_210914_041224/20447945/ccs_1135
+m54257_210414_133237/19465083/ccs	pacbio	uid_375716	23.0	22.0			m54257_210414_133237/4719483/ccs_uid_375726
+m54257_210425_012457/12058816/ccs	pacbio	uid_375766	56.0	22.0			m54257_210414_133237/19465083/ccs_uid_375716
+m54257_210914_210835/50528956/ccs	pacbio	1447	48.0	22.0			m54257_210425_012457/12058816/ccs_uid_375766
+m54257_210914_041224/20382403/ccs	pacbio	1135	22.0	22.0			m54257_210914_210835/50528956/ccs_1447
+m54257_210914_041224/13108084/ccs	pacbio	1135	41.0	22.0			m54257_210914_041224/20382403/ccs_1135
+m54257_210914_041224/12648759/ccs	pacbio	1135	13.0	22.0			m54257_210914_041224/13108084/ccs_1135
+m54257_210914_041224/36766037/ccs	pacbio	1135	59.0	21.0			m54257_210914_041224/12648759/ccs_1135
+m54257_210914_210835/4850167/ccs	pacbio	1746	67.0	21.0			m54257_210914_041224/36766037/ccs_1135
+m54257_210914_210835/27984649/ccs	pacbio	1068	22.0	21.0			m54257_210914_210835/4850167/ccs_1746
+m54257_210914_041224/4588118/ccs	pacbio	1135	56.0	21.0			m54257_210914_210835/27984649/ccs_1068
+m54257_210915_072622/5571388/ccs	pacbio	1068	31.0	21.0			m54257_210914_041224/4588118/ccs_1135
+m54257_210914_041224/12321623/ccs	pacbio	1135	62.0	21.0			m54257_210915_072622/5571388/ccs_1068
+m54257_210425_012457/11731740/ccs	pacbio	uid_375747	9.0	21.0			m54257_210914_041224/12321623/ccs_1135
+m54257_210914_041224/28442829/ccs	pacbio	160	38.0	21.0			m54257_210425_012457/11731740/ccs_uid_375747
+m54257_210913_175418/38404521/ccs	pacbio	1471	22.0	21.0			m54257_210914_041224/28442829/ccs_160
+m54257_210913_175418/13304643/ccs	pacbio	1332	22.0	21.0			m54257_210913_175418/38404521/ccs_1471
+m54257_210913_175418/22282461/ccs	pacbio	2282	41.0	21.0			m54257_210913_175418/13304643/ccs_1332
+m54257_210913_175418/43253869/ccs	pacbio	1414	40.0	21.0			m54257_210913_175418/22282461/ccs_2282
+m54257_210914_210835/12976401/ccs	pacbio	169	20.0	20.0			m54257_210913_175418/43253869/ccs_1414
+m54257_210414_133237/11928379/ccs	pacbio	uid_375733	43.0	20.0			m54257_210914_210835/12976401/ccs_169
+m54257_210914_041224/56558327/ccs	pacbio	1135	22.0	20.0			m54257_210414_133237/11928379/ccs_uid_375733
+m54257_210913_175418/11731238/ccs	pacbio	2363	33.0	20.0			m54257_210914_041224/56558327/ccs_1135
+m54257_210914_041224/19398808/ccs	pacbio	1135	37.0	20.0			m54257_210913_175418/11731238/ccs_2363
+m54257_210913_175418/21627716/ccs	pacbio	1740	22.0	20.0			m54257_210914_041224/19398808/ccs_1135
+m54257_210914_041224/13631707/ccs	pacbio	1135	14.0	19.0			m54257_210913_175418/21627716/ccs_1740
+m54257_210914_210835/16974151/ccs	pacbio	2054	51.0	19.0			m54257_210914_041224/13631707/ccs_1135
+m54257_210914_041224/14287096/ccs	pacbio	1135	17.0	19.0			m54257_210914_210835/16974151/ccs_2054
+m54257_210915_072622/5440354/ccs	pacbio	1068	32.0	19.0			m54257_210914_041224/14287096/ccs_1135
+m54257_210914_210835/12125053/ccs	pacbio	1435	63.0	19.0			m54257_210915_072622/5440354/ccs_1068
+m54257_210914_210835/52429131/ccs	pacbio	1558	16.0	19.0			m54257_210914_210835/12125053/ccs_1435
+m54257_210914_041224/13763062/ccs	pacbio	1135	47.0	19.0			m54257_210914_210835/52429131/ccs_1558
+m54257_210914_210835/38405070/ccs	pacbio	1263	17.0	19.0			m54257_210914_041224/13763062/ccs_1135
+m54257_210913_175418/65208437/ccs	pacbio	1262	23.0	19.0			m54257_210914_210835/38405070/ccs_1263
+m54257_210914_041224/41026344/ccs	pacbio	1928	18.0	19.0			m54257_210913_175418/65208437/ccs_1262
+m54257_210914_210835/47513753/ccs	pacbio	1558	15.0	19.0			m54257_210914_041224/41026344/ccs_1928
+m54257_210425_012457/21627838/ccs	pacbio	uid_375800	41.0	19.0			m54257_210914_210835/47513753/ccs_1558
+m54257_210915_072622/12779777/ccs	pacbio	1099	20.0	19.0			m54257_210425_012457/21627838/ccs_uid_375800
+m54257_210914_210835/23200389/ccs	pacbio	1558	37.0	19.0			m54257_210915_072622/12779777/ccs_1099
+m54257_210914_210835/72745959/ccs	pacbio	1558	11.0	19.0			m54257_210914_210835/23200389/ccs_1558
+m54257_210913_175418/43647610/ccs	pacbio	1313	49.0	18.0			m54257_210914_210835/72745959/ccs_1558
+m54257_210914_041224/13370299/ccs	pacbio	1135	49.0	18.0			m54257_210913_175418/43647610/ccs_1313
+m54257_210425_012457/22676169/ccs	pacbio	uid_375739	61.0	18.0			m54257_210914_041224/13370299/ccs_1135
+m54257_210425_012457/22348442/ccs	pacbio	uid_375747	63.0	18.0			m54257_210425_012457/22676169/ccs_uid_375739
+m54257_210425_012457/34079617/ccs	pacbio	uid_375766	22.0	18.0			m54257_210425_012457/22348442/ccs_uid_375747
+m54257_210914_210835/12255363/ccs	pacbio	2054	24.0	18.0			m54257_210425_012457/34079617/ccs_uid_375766
+m54257_210915_072622/13304829/ccs	pacbio	1068	41.0	18.0			m54257_210914_210835/12255363/ccs_2054
+m54257_210425_012457/26017952/ccs	pacbio	uid_375753	59.0	18.0			m54257_210915_072622/13304829/ccs_1068
+m54257_210414_133237/14090875/ccs	pacbio	uid_375716	51.0	18.0			m54257_210425_012457/26017952/ccs_uid_375753
+m54257_210414_133237/13304207/ccs	pacbio	uid_375716	11.0	18.0			m54257_210414_133237/14090875/ccs_uid_375716
+m54257_210914_041224/58589581/ccs	pacbio	160	46.0	18.0			m54257_210414_133237/13304207/ccs_uid_375716
+m54257_210914_210835/33882551/ccs	pacbio	80	30.0	18.0			m54257_210914_041224/58589581/ccs_160
+m54257_210915_072622/19267963/ccs	pacbio	1068	52.0	18.0			m54257_210914_210835/33882551/ccs_80
+m54257_210914_210835/5767837/ccs	pacbio	1435	40.0	18.0			m54257_210915_072622/19267963/ccs_1068
+m54257_210914_041224/4784940/ccs	pacbio	1135	64.0	18.0			m54257_210914_210835/5767837/ccs_1435
+m54257_210915_072622/4784778/ccs	pacbio	1327	27.0	17.0			m54257_210914_041224/4784940/ccs_1135
+m54257_210913_175418/4522103/ccs	pacbio	1740	26.0	17.0			m54257_210915_072622/4784778/ccs_1327
+m54257_210425_012457/4522418/ccs	pacbio	uid_375800	30.0	17.0			m54257_210913_175418/4522103/ccs_1740
+m54257_210914_210835/15073923/ccs	pacbio	2054	44.0	17.0			m54257_210425_012457/4522418/ccs_uid_375800
+m54257_210914_041224/20185507/ccs	pacbio	1281	19.0	17.0			m54257_210914_210835/15073923/ccs_2054
+m54257_210914_041224/15335929/ccs	pacbio	1135	50.0	17.0			m54257_210914_041224/20185507/ccs_1281
+m54257_210914_041224/6095741/ccs	pacbio	1135	23.0	17.0			m54257_210914_041224/15335929/ccs_1135
+m54257_210414_133237/22806758/ccs	pacbio	uid_375677	60.0	17.0			m54257_210914_041224/6095741/ccs_1135
+m54257_210914_041224/24510922/ccs	pacbio	1135	14.0	17.0			m54257_210414_133237/22806758/ccs_uid_375677
+m54257_210425_012457/13172930/ccs	pacbio	uid_375766	24.0	17.0			m54257_210914_041224/24510922/ccs_1135
+m54257_210913_175418/20316990/ccs	pacbio	1010	37.0	17.0			m54257_210425_012457/13172930/ccs_uid_375766
+m54257_210414_133237/11141652/ccs	pacbio	uid_375699	16.0	17.0			m54257_210913_175418/20316990/ccs_1010
+m54257_210913_175418/21693315/ccs	pacbio	1869	12.0	17.0			m54257_210414_133237/11141652/ccs_uid_375699
+m54257_210914_041224/32375346/ccs	pacbio	1135	66.0	17.0			m54257_210913_175418/21693315/ccs_1869
+m54257_210425_012457/31982336/ccs	pacbio	uid_375800	66.0	17.0			m54257_210914_041224/32375346/ccs_1135
+m54257_210914_041224/4522817/ccs	pacbio	916	53.0	17.0			m54257_210425_012457/31982336/ccs_uid_375800
+m54257_210414_133237/15532493/ccs	pacbio	uid_375733	55.0	17.0			m54257_210914_041224/4522817/ccs_916
+m54257_210914_041224/11796693/ccs	pacbio	1135	44.0	16.0			m54257_210414_133237/15532493/ccs_uid_375733
+m54257_210425_012457/22544511/ccs	pacbio	uid_375753	48.0	16.0			m54257_210914_041224/11796693/ccs_1135
+m54257_210414_133237/11600236/ccs	pacbio	uid_375703	42.0	16.0			m54257_210425_012457/22544511/ccs_uid_375753
+m54257_210914_210835/21037832/ccs	pacbio	1558	22.0	16.0			m54257_210414_133237/11600236/ccs_uid_375703
+m54257_210425_012457/5046661/ccs	pacbio	uid_375766	44.0	16.0			m54257_210914_210835/21037832/ccs_1558
+m54257_210414_133237/61932433/ccs	pacbio	uid_375699	11.0	16.0			m54257_210425_012457/5046661/ccs_uid_375766
+m54257_210414_133237/11207494/ccs	pacbio	uid_375650	12.0	16.0			m54257_210414_133237/61932433/ccs_uid_375699
+m54257_210914_041224/21627153/ccs	pacbio	1135	43.0	16.0			m54257_210414_133237/11207494/ccs_uid_375650
+m54257_210913_175418/11534500/ccs	pacbio	1973	19.0	16.0			m54257_210914_041224/21627153/ccs_1135
+m54257_210915_072622/26542544/ccs	pacbio	1597	50.0	16.0			m54257_210913_175418/11534500/ccs_1973
+m54257_210914_041224/4784739/ccs	pacbio	1135	38.0	16.0			m54257_210915_072622/26542544/ccs_1597
+m54257_210914_210835/5767486/ccs	pacbio	1435	65.0	16.0			m54257_210914_041224/4784739/ccs_1135
+m54257_210914_041224/17302273/ccs	pacbio	1135	46.0	16.0			m54257_210914_210835/5767486/ccs_1435
+m54257_210914_041224/25034906/ccs	pacbio	1135	53.0	16.0			m54257_210914_041224/17302273/ccs_1135
+m54257_210425_181849/16647051/ccs	pacbio	uid_375791	64.0	16.0			m54257_210914_041224/25034906/ccs_1135
+m54257_210914_041224/19988601/ccs	pacbio	1135	40.0	16.0			m54257_210425_181849/16647051/ccs_uid_375791
+m54257_210914_041224/13042457/ccs	pacbio	1281	20.0	16.0			m54257_210914_041224/19988601/ccs_1135
+m54257_210915_072622/15925881/ccs	pacbio	1068	40.0	16.0			m54257_210914_041224/13042457/ccs_1281
+m54257_210914_041224/17891874/ccs	pacbio	1135	19.0	16.0			m54257_210915_072622/15925881/ccs_1068
+m54257_210914_210835/14877664/ccs	pacbio	1447	24.0	16.0			m54257_210914_041224/17891874/ccs_1135
+m54257_210914_210835/50397613/ccs	pacbio	1558	30.0	15.0			m54257_210914_210835/14877664/ccs_1447
+m54257_210914_041224/18350778/ccs	pacbio	1135	50.0	15.0			m54257_210914_210835/50397613/ccs_1558
+m54257_210914_041224/18022523/ccs	pacbio	1135	62.0	15.0			m54257_210914_041224/18350778/ccs_1135
+m54257_210914_041224/37355615/ccs	pacbio	1135	53.0	15.0			m54257_210914_041224/18022523/ccs_1135
+m54257_210913_175418/17301739/ccs	pacbio	1313	17.0	15.0			m54257_210914_041224/37355615/ccs_1135
+m54257_210914_210835/4522299/ccs	pacbio	1327	56.0	15.0			m54257_210913_175418/17301739/ccs_1313
+m54257_210914_041224/18481784/ccs	pacbio	1135	36.0	15.0			m54257_210914_210835/4522299/ccs_1327
+m54257_210425_012457/16908939/ccs	pacbio	uid_375751	47.0	15.0			m54257_210914_041224/18481784/ccs_1135
+m54257_210913_175418/5833311/ccs	pacbio	1316	15.0	15.0			m54257_210425_012457/16908939/ccs_uid_375751
+m54257_210914_210835/14222234/ccs	pacbio	1243	30.0	15.0			m54257_210913_175418/5833311/ccs_1316
+m54257_210914_041224/4588042/ccs	pacbio	3041	63.0	15.0			m54257_210914_210835/14222234/ccs_1243
+m54257_210914_041224/13238518/ccs	pacbio	916	33.0	15.0			m54257_210914_041224/4588042/ccs_3041
+m54257_210914_210835/69796275/ccs	pacbio	1558	14.0	15.0			m54257_210914_041224/13238518/ccs_916
+m54257_210913_175418/54264231/ccs	pacbio	1313	16.0	15.0			m54257_210914_210835/69796275/ccs_1558
+m54257_210425_012457/11600784/ccs	pacbio	uid_375800	20.0	15.0			m54257_210913_175418/54264231/ccs_1313
+m54257_210914_041224/5439664/ccs	pacbio	1894	57.0	14.0			m54257_210425_012457/11600784/ccs_uid_375800
+m54257_210914_041224/19989427/ccs	pacbio	1135	43.0	14.0			m54257_210914_041224/5439664/ccs_1894
+m54257_210414_133237/15007898/ccs	pacbio	uid_375721	45.0	14.0			m54257_210914_041224/19989427/ccs_1135
+m54257_210425_012457/20119916/ccs	pacbio	uid_375800	21.0	14.0			m54257_210414_133237/15007898/ccs_uid_375721
+m54257_210913_175418/27591230/ccs	pacbio	1135	31.0	14.0			m54257_210425_012457/20119916/ccs_uid_375800
+m54257_210914_041224/12517818/ccs	pacbio	1135	36.0	14.0			m54257_210913_175418/27591230/ccs_1135
+m54257_210913_175418/19006361/ccs	pacbio	1471	30.0	14.0			m54257_210914_041224/12517818/ccs_1135
+m54257_210425_012457/17892139/ccs	pacbio	uid_375800	11.0	14.0			m54257_210913_175418/19006361/ccs_1471
+m54257_210914_041224/58786403/ccs	pacbio	1298	66.0	14.0			m54257_210425_012457/17892139/ccs_uid_375800
+m54257_210425_012457/7930382/ccs	pacbio	uid_375800	41.0	14.0			m54257_210914_041224/58786403/ccs_1298
+m54257_210425_012457/16843287/ccs	pacbio	uid_375785	40.0	14.0			m54257_210425_012457/7930382/ccs_uid_375800
+m54257_210914_210835/11862291/ccs	pacbio	1558	24.0	14.0			m54257_210425_012457/16843287/ccs_uid_375785
+m54257_210915_072622/4456954/ccs	pacbio	1597	65.0	14.0			m54257_210914_210835/11862291/ccs_1558
+m54257_210414_133237/4522189/ccs	pacbio	uid_375716	49.0	14.0			m54257_210915_072622/4456954/ccs_1597
+m54257_210914_210835/23331221/ccs	pacbio	169	43.0	14.0			m54257_210414_133237/4522189/ccs_uid_375716
+m54257_210915_072622/6554325/ccs	pacbio	1099	54.0	14.0			m54257_210914_210835/23331221/ccs_169
+m54257_210914_041224/5308821/ccs	pacbio	1135	22.0	14.0			m54257_210915_072622/6554325/ccs_1099
+m54257_210913_175418/15663732/ccs	pacbio	1471	36.0	14.0			m54257_210914_041224/5308821/ccs_1135
+m54257_210414_133237/11142113/ccs	pacbio	uid_375733	44.0	14.0			m54257_210913_175418/15663732/ccs_1471
+m54257_210414_133237/11665725/ccs	pacbio	uid_375727	36.0	14.0			m54257_210414_133237/11142113/ccs_uid_375733
+m54257_210914_210835/36701146/ccs	pacbio	1653	53.0	14.0			m54257_210414_133237/11665725/ccs_uid_375727
+m54257_210914_210835/11468873/ccs	pacbio	1435	24.0	13.0			m54257_210914_210835/36701146/ccs_1653
+m54257_210914_210835/12517962/ccs	pacbio	1327	51.0	13.0			m54257_210914_210835/11468873/ccs_1435
+m54257_210425_012457/18481370/ccs	pacbio	uid_375766	45.0	13.0			m54257_210914_210835/12517962/ccs_1327
+m54257_210914_041224/13435614/ccs	pacbio	1135	44.0	13.0			m54257_210425_012457/18481370/ccs_uid_375766
+m54257_210914_041224/14024851/ccs	pacbio	1135	20.0	13.0			m54257_210914_041224/13435614/ccs_1135
+m54257_210913_175418/12911419/ccs	pacbio	1262	20.0	13.0			m54257_210914_041224/14024851/ccs_1135
+m54257_210914_041224/24248623/ccs	pacbio	1135	19.0	13.0			m54257_210913_175418/12911419/ccs_1262
+m54257_210915_072622/16908881/ccs	pacbio	1068	28.0	13.0			m54257_210914_041224/24248623/ccs_1135
+m54257_210914_041224/21365357/ccs	pacbio	1010	14.0	13.0			m54257_210915_072622/16908881/ccs_1068
+m54257_210414_133237/18350966/ccs	pacbio	uid_375733	43.0	13.0			m54257_210914_041224/21365357/ccs_1010
+m54257_210913_175418/5702614/ccs	pacbio	1740	25.0	13.0			m54257_210414_133237/18350966/ccs_uid_375733
+m54257_210913_175418/55837379/ccs	pacbio	1740	22.0	13.0			m54257_210913_175418/5702614/ccs_1740
+m54257_210913_175418/52888158/ccs	pacbio	1740	20.0	13.0			m54257_210913_175418/55837379/ccs_1740
+m54257_210914_210835/16515935/ccs	pacbio	2054	63.0	13.0			m54257_210913_175418/52888158/ccs_1740
+m54257_210915_072622/41746660/ccs	pacbio	1068	48.0	13.0			m54257_210914_210835/16515935/ccs_2054
+m54257_210913_175418/4325866/ccs	pacbio	1479	16.0	13.0			m54257_210915_072622/41746660/ccs_1068
+m54257_210914_210835/13632469/ccs	pacbio	1327	13.0	13.0			m54257_210913_175418/4325866/ccs_1479
+m54257_210914_041224/16646740/ccs	pacbio	916	37.0	13.0			m54257_210914_210835/13632469/ccs_1327
+m54257_210913_175418/56886047/ccs	pacbio	1899	45.0	13.0			m54257_210914_041224/16646740/ccs_916
+m54257_210914_041224/13107557/ccs	pacbio	160	62.0	13.0			m54257_210913_175418/56886047/ccs_1899
+m54257_210914_041224/14680619/ccs	pacbio	1135	29.0	13.0			m54257_210914_041224/13107557/ccs_160
+m54257_210425_012457/28115708/ccs	pacbio	uid_375747	20.0	13.0			m54257_210914_041224/14680619/ccs_1135
+m54257_210915_072622/57344798/ccs	pacbio	1435	43.0	13.0			m54257_210425_012457/28115708/ccs_uid_375747
+m54257_210915_072622/62587502/ccs	pacbio	1435	30.0	13.0			m54257_210915_072622/57344798/ccs_1435
+m54257_210914_041224/48628414/ccs	pacbio	1135	42.0	13.0			m54257_210915_072622/62587502/ccs_1435
+m54257_210414_133237/17957059/ccs	pacbio	uid_375703	26.0	13.0			m54257_210914_041224/48628414/ccs_1135
+m54257_210914_041224/26739340/ccs	pacbio	1135	33.0	13.0			m54257_210414_133237/17957059/ccs_uid_375703
+m54257_210414_133237/13501407/ccs	pacbio	uid_375703	15.0	13.0			m54257_210914_041224/26739340/ccs_1135
+m54257_210914_210835/18154387/ccs	pacbio	1483	37.0	13.0			m54257_210414_133237/13501407/ccs_uid_375703
+m54257_210914_041224/28836661/ccs	pacbio	1135	45.0	13.0			m54257_210914_210835/18154387/ccs_1483
+m54257_210914_210835/36111052/ccs	pacbio	90	61.0	12.0			m54257_210914_041224/28836661/ccs_1135
+m54257_210914_041224/16908400/ccs	pacbio	1135	12.0	12.0			m54257_210914_210835/36111052/ccs_90
+m54257_210914_041224/13828572/ccs	pacbio	1135	48.0	12.0			m54257_210914_041224/16908400/ccs_1135
+m54257_210913_175418/62259942/ccs	pacbio	1740	12.0	12.0			m54257_210914_041224/13828572/ccs_1135
+m54257_210915_072622/24642464/ccs	pacbio	1068	38.0	12.0			m54257_210913_175418/62259942/ccs_1740
+m54257_210914_041224/22741987/ccs	pacbio	1135	46.0	12.0			m54257_210915_072622/24642464/ccs_1068
+m54257_210425_012457/15860528/ccs	pacbio	uid_375766	29.0	12.0			m54257_210914_041224/22741987/ccs_1135
+m54257_210913_175418/15663749/ccs	pacbio	1262	38.0	12.0			m54257_210425_012457/15860528/ccs_uid_375766
+m54257_210913_175418/73925423/ccs	pacbio	2174	40.0	12.0			m54257_210913_175418/15663749/ccs_1262
+m54257_210913_175418/12255331/ccs	pacbio	1740	16.0	12.0			m54257_210913_175418/73925423/ccs_2174
+m54257_210414_133237/5243438/ccs	pacbio	uid_375716	23.0	12.0			m54257_210913_175418/12255331/ccs_1740
+m54257_210914_041224/13959849/ccs	pacbio	1135	38.0	12.0			m54257_210414_133237/5243438/ccs_uid_375716
+m54257_210914_041224/13631897/ccs	pacbio	1148	16.0	12.0			m54257_210914_041224/13959849/ccs_1135
+m54257_210914_041224/24970199/ccs	pacbio	1135	30.0	12.0			m54257_210914_041224/13631897/ccs_1148
+m54257_210913_175418/13107673/ccs	pacbio	1332	34.0	12.0			m54257_210914_041224/24970199/ccs_1135
+m54257_210913_175418/42140526/ccs	pacbio	1740	35.0	12.0			m54257_210913_175418/13107673/ccs_1332
+m54257_210914_210835/21954823/ccs	pacbio	1796	41.0	12.0			m54257_210913_175418/42140526/ccs_1740
+m54257_210914_041224/41944016/ccs	pacbio	1162	38.0	12.0			m54257_210914_210835/21954823/ccs_1796
+m54257_210914_210835/21824260/ccs	pacbio	1435	50.0	12.0			m54257_210914_041224/41944016/ccs_1162
+m54257_210913_175418/13894466/ccs	pacbio	1332	17.0	12.0			m54257_210914_210835/21824260/ccs_1435
+m54257_210414_133237/16384867/ccs	pacbio	uid_375733	24.0	12.0			m54257_210913_175418/13894466/ccs_1332
+m54257_210913_175418/34668810/ccs	pacbio	1740	12.0	12.0			m54257_210414_133237/16384867/ccs_uid_375733
+m54257_210914_041224/16843329/ccs	pacbio	1281	40.0	12.0			m54257_210913_175418/34668810/ccs_1740
+m54257_210414_133237/26935948/ccs	pacbio	uid_375733	27.0	12.0			m54257_210914_041224/16843329/ccs_1281
+m54257_210914_041224/4915898/ccs	pacbio	1135	58.0	12.0			m54257_210414_133237/26935948/ccs_uid_375733
+m54257_210914_041224/17826560/ccs	pacbio	1135	42.0	12.0			m54257_210914_041224/4915898/ccs_1135
+m54257_210425_012457/28377248/ccs	pacbio	uid_375747	44.0	12.0			m54257_210914_041224/17826560/ccs_1135
+m54257_210414_133237/4522231/ccs	pacbio	uid_375712	17.0	12.0			m54257_210425_012457/28377248/ccs_uid_375747
+m54257_210914_041224/18088705/ccs	pacbio	197	18.0	12.0			m54257_210414_133237/4522231/ccs_uid_375712
+m54257_210425_012457/29950138/ccs	pacbio	uid_375796	55.0	12.0			m54257_210914_041224/18088705/ccs_197
+m54257_210915_072622/29033297/ccs	pacbio	1068	14.0	12.0			m54257_210425_012457/29950138/ccs_uid_375796
+m54257_210915_072622/15073767/ccs	pacbio	1447	66.0	12.0			m54257_210915_072622/29033297/ccs_1068
+m54257_210914_041224/11666129/ccs	pacbio	3045	58.0	12.0			m54257_210915_072622/15073767/ccs_1447
+m54257_210914_041224/55837168/ccs	pacbio	1135	52.0	12.0			m54257_210914_041224/11666129/ccs_3045
+m54257_210914_041224/5505567/ccs	pacbio	1135	44.0	12.0			m54257_210914_041224/55837168/ccs_1135
+m54257_210914_210835/20709802/ccs	pacbio	1435	18.0	11.0			m54257_210914_041224/5505567/ccs_1135
+m54257_210425_012457/25297677/ccs	pacbio	uid_375818	37.0	11.0			m54257_210914_210835/20709802/ccs_1435
+m54257_210914_041224/33882235/ccs	pacbio	1928	23.0	11.0			m54257_210425_012457/25297677/ccs_uid_375818
+m54257_210425_012457/25100538/ccs	pacbio	uid_375739	29.0	11.0			m54257_210914_041224/33882235/ccs_1928
+m54257_210914_041224/14352880/ccs	pacbio	916	52.0	11.0			m54257_210425_012457/25100538/ccs_uid_375739
+m54257_210914_210835/59114337/ccs	pacbio	1435	67.0	11.0			m54257_210914_041224/14352880/ccs_916
+m54257_210914_041224/43843766/ccs	pacbio	1135	49.0	11.0			m54257_210914_210835/59114337/ccs_1435
+m54257_210914_041224/13566614/ccs	pacbio	1135	12.0	11.0			m54257_210914_041224/43843766/ccs_1135
+m54257_210914_041224/5243129/ccs	pacbio	1606	9.0	11.0			m54257_210914_041224/13566614/ccs_1135
+m54257_210914_041224/26476642/ccs	pacbio	1135	49.0	11.0			m54257_210914_041224/5243129/ccs_1606
+m54257_210914_041224/14811647/ccs	pacbio	916	51.0	11.0			m54257_210914_041224/26476642/ccs_1135
+m54257_210425_012457/5571024/ccs	pacbio	uid_375800	25.0	11.0			m54257_210914_041224/14811647/ccs_916
+m54257_210913_175418/28705124/ccs	pacbio	1740	11.0	11.0			m54257_210425_012457/5571024/ccs_uid_375800
+m54257_210913_175418/54526141/ccs	pacbio	1606	40.0	11.0			m54257_210913_175418/28705124/ccs_1740
+m54257_210913_175418/38338903/ccs	pacbio	1316	31.0	11.0			m54257_210913_175418/54526141/ccs_1606
+m54257_210425_012457/15008096/ccs	pacbio	uid_375819	60.0	11.0			m54257_210913_175418/38338903/ccs_1316
+m54257_210914_041224/11468969/ccs	pacbio	491	17.0	11.0			m54257_210425_012457/15008096/ccs_uid_375819
+m54257_210914_041224/22086448/ccs	pacbio	1135	29.0	11.0			m54257_210914_041224/11468969/ccs_491
+m54257_210914_041224/14681009/ccs	pacbio	1135	33.0	11.0			m54257_210914_041224/22086448/ccs_1135
+m54257_210914_041224/4326289/ccs	pacbio	1135	25.0	11.0			m54257_210914_041224/14681009/ccs_1135
+m54257_210425_012457/38535237/ccs	pacbio	uid_375819	32.0	11.0			m54257_210914_041224/4326289/ccs_1135
+m54257_210425_012457/18940052/ccs	pacbio	uid_375800	35.0	11.0			m54257_210425_012457/38535237/ccs_uid_375819
+m54257_210913_175418/13566663/ccs	pacbio	1740	14.0	11.0			m54257_210425_012457/18940052/ccs_uid_375800
+m54257_210425_012457/13238645/ccs	pacbio	uid_375794	32.0	11.0			m54257_210913_175418/13566663/ccs_1740
+m54257_210913_175418/61145827/ccs	pacbio	1471	36.0	11.0			m54257_210425_012457/13238645/ccs_uid_375794
+m54257_210914_041224/57868610/ccs	pacbio	1135	61.0	11.0			m54257_210913_175418/61145827/ccs_1471
+m54257_210914_041224/8192326/ccs	pacbio	1010	41.0	11.0			m54257_210914_041224/57868610/ccs_1135
+m54257_210425_012457/13173362/ccs	pacbio	uid_375766	70.0	11.0			m54257_210914_041224/8192326/ccs_1010
+m54257_210425_012457/18481876/ccs	pacbio	uid_375747	34.0	11.0			m54257_210425_012457/13173362/ccs_uid_375766
+m54257_210914_210835/52101855/ccs	pacbio	1558	26.0	11.0			m54257_210425_012457/18481876/ccs_uid_375747
+m54257_210913_175418/16974439/ccs	pacbio	1471	37.0	11.0			m54257_210914_210835/52101855/ccs_1558
+m54257_210425_012457/4522905/ccs	pacbio	uid_375747	43.0	11.0			m54257_210913_175418/16974439/ccs_1471
+m54257_210914_041224/12059166/ccs	pacbio	1135	24.0	11.0			m54257_210425_012457/4522905/ccs_uid_375747
+m54257_210914_041224/14615005/ccs	pacbio	1135	13.0	11.0			m54257_210914_041224/12059166/ccs_1135
+m54257_210915_072622/15008060/ccs	pacbio	1099	39.0	11.0			m54257_210914_041224/14615005/ccs_1135
+m54257_210915_072622/4719151/ccs	pacbio	8	15.0	11.0			m54257_210915_072622/15008060/ccs_1099
+m54257_210414_133237/16384115/ccs	pacbio	uid_375721	48.0	11.0			m54257_210915_072622/4719151/ccs_8
+m54257_210414_133237/71959278/ccs	pacbio	uid_375644	13.0	10.0			m54257_210414_133237/16384115/ccs_uid_375721
+m54257_210915_072622/11403716/ccs	pacbio	1068	14.0	10.0			m54257_210414_133237/71959278/ccs_uid_375644
+m54257_210414_133237/12583895/ccs	pacbio	uid_375733	67.0	10.0			m54257_210915_072622/11403716/ccs_1068
+m54257_210914_041224/16122813/ccs	pacbio	1135	54.0	10.0			m54257_210414_133237/12583895/ccs_uid_375733
+m54257_210414_133237/22479461/ccs	pacbio	uid_375733	54.0	10.0			m54257_210914_041224/16122813/ccs_1135
+m54257_210913_175418/11534499/ccs	pacbio	1479	26.0	10.0			m54257_210414_133237/22479461/ccs_uid_375733
+m54257_210913_175418/26804509/ccs	pacbio	1262	33.0	10.0			m54257_210913_175418/11534499/ccs_1479
+m54257_210914_041224/72351833/ccs	pacbio	1135	35.0	10.0			m54257_210913_175418/26804509/ccs_1262
+m54257_210425_012457/35586538/ccs	pacbio	uid_375739	47.0	10.0			m54257_210914_041224/72351833/ccs_1135
+m54257_210414_133237/11141571/ccs	pacbio	uid_375716	26.0	10.0			m54257_210425_012457/35586538/ccs_uid_375739
+m54257_210914_210835/28443466/ccs	pacbio	2054	40.0	10.0			m54257_210414_133237/11141571/ccs_uid_375716
+m54257_210425_012457/16318893/ccs	pacbio	uid_375800	44.0	10.0			m54257_210914_210835/28443466/ccs_2054
+m54257_210425_012457/19661543/ccs	pacbio	uid_375800	35.0	10.0			m54257_210425_012457/16318893/ccs_uid_375800
+m54257_210914_210835/31260772/ccs	pacbio	1435	34.0	10.0			m54257_210425_012457/19661543/ccs_uid_375800
+m54257_210425_012457/17498978/ccs	pacbio	uid_375739	22.0	10.0			m54257_210914_210835/31260772/ccs_1435
+m54257_210914_210835/28246365/ccs	pacbio	1558	21.0	10.0			m54257_210425_012457/17498978/ccs_uid_375739
+m54257_210913_175418/23659316/ccs	pacbio	1316	18.0	10.0			m54257_210914_210835/28246365/ccs_1558
+m54257_210414_133237/22741228/ccs	pacbio	uid_375733	51.0	10.0			m54257_210913_175418/23659316/ccs_1316
+m54257_210914_210835/73793741/ccs	pacbio	1597	54.0	10.0			m54257_210414_133237/22741228/ccs_uid_375733
+m54257_210914_041224/20251613/ccs	pacbio	1135	21.0	10.0			m54257_210914_210835/73793741/ccs_1597
+m54257_210913_175418/38469941/ccs	pacbio	1740	42.0	10.0			m54257_210914_041224/20251613/ccs_1135
+m54257_210913_175418/33096453/ccs	pacbio	1740	42.0	10.0			m54257_210913_175418/38469941/ccs_1740
+m54257_210914_210835/38273564/ccs	pacbio	1327	13.0	10.0			m54257_210913_175418/33096453/ccs_1740
+m54257_210914_041224/14222208/ccs	pacbio	1135	56.0	10.0			m54257_210914_210835/38273564/ccs_1327
+m54257_210914_041224/42271725/ccs	pacbio	1135	40.0	10.0			m54257_210914_041224/14222208/ccs_1135
+m54257_210914_041224/12124306/ccs	pacbio	1135	36.0	10.0			m54257_210914_041224/42271725/ccs_1135
+m54257_210913_175418/22807525/ccs	pacbio	1332	13.0	10.0			m54257_210914_041224/12124306/ccs_1135
+m54257_210914_041224/15138980/ccs	pacbio	916	65.0	10.0			m54257_210913_175418/22807525/ccs_1332
+m54257_210425_012457/5439964/ccs	pacbio	uid_375753	34.0	10.0			m54257_210914_041224/15138980/ccs_916
+m54257_210425_012457/19726437/ccs	pacbio	uid_375757	12.0	10.0			m54257_210425_012457/5439964/ccs_uid_375753
+m54257_210914_041224/27394722/ccs	pacbio	1135	27.0	10.0			m54257_210425_012457/19726437/ccs_uid_375757
+m54257_210915_072622/25166189/ccs	pacbio	1447	15.0	10.0			m54257_210914_041224/27394722/ccs_1135
+m54257_210913_175418/44171705/ccs	pacbio	2282	12.0	10.0			m54257_210915_072622/25166189/ccs_1447
+m54257_210414_133237/24642546/ccs	pacbio	uid_375647	16.0	10.0			m54257_210913_175418/44171705/ccs_2282
+m54257_210913_175418/64160628/ccs	pacbio	1550	52.0	10.0			m54257_210414_133237/24642546/ccs_uid_375647
+m54257_210914_041224/12386815/ccs	pacbio	1135	26.0	10.0			m54257_210913_175418/64160628/ccs_1550
+m54257_210425_012457/32179147/ccs	pacbio	uid_375759	40.0	10.0			m54257_210914_041224/12386815/ccs_1135
+m54257_210913_175418/30212215/ccs	pacbio	1479	22.0	10.0			m54257_210425_012457/32179147/ccs_uid_375759
+m54257_210914_041224/4915454/ccs	pacbio	1135	47.0	10.0			m54257_210913_175418/30212215/ccs_1479
+m54257_210425_012457/11993346/ccs	pacbio	uid_375747	24.0	10.0			m54257_210914_041224/4915454/ccs_1135
+m54257_210914_210835/65929597/ccs	pacbio	1327	38.0	10.0			m54257_210425_012457/11993346/ccs_uid_375747
+m54257_210914_041224/19596191/ccs	pacbio	1135	47.0	10.0			m54257_210914_210835/65929597/ccs_1327
+m54257_210913_175418/12780123/ccs	pacbio	1740	14.0	9.0			m54257_210914_041224/19596191/ccs_1135
+m54257_210414_133237/15007926/ccs	pacbio	uid_375716	31.0	9.0			m54257_210913_175418/12780123/ccs_1740
+m54257_210914_041224/12190619/ccs	pacbio	160	55.0	9.0			m54257_210414_133237/15007926/ccs_uid_375716
+m54257_210414_133237/21102864/ccs	pacbio	uid_375650	21.0	9.0			m54257_210914_041224/12190619/ccs_160
+m54257_210914_041224/13304194/ccs	pacbio	1135	50.0	9.0			m54257_210414_133237/21102864/ccs_uid_375650
+m54257_210414_133237/12124350/ccs	pacbio	uid_375716	36.0	9.0			m54257_210914_041224/13304194/ccs_1135
+m54257_210913_175418/15008679/ccs	pacbio	1262	17.0	9.0			m54257_210414_133237/12124350/ccs_uid_375716
+m54257_210913_175418/27001066/ccs	pacbio	1262	32.0	9.0			m54257_210913_175418/15008679/ccs_1262
+m54257_210425_012457/27919206/ccs	pacbio	uid_375791	33.0	9.0			m54257_210913_175418/27001066/ccs_1262
+m54257_210914_041224/58327555/ccs	pacbio	160	19.0	9.0			m54257_210425_012457/27919206/ccs_uid_375791
+m54257_210914_041224/38338963/ccs	pacbio	1135	38.0	9.0			m54257_210914_041224/58327555/ccs_160
+m54257_210914_041224/46006398/ccs	pacbio	1135	40.0	9.0			m54257_210914_041224/38338963/ccs_1135
+m54257_210425_012457/26215227/ccs	pacbio	uid_375819	36.0	9.0			m54257_210914_041224/46006398/ccs_1135
+m54257_210414_133237/18219909/ccs	pacbio	uid_375703	67.0	9.0			m54257_210425_012457/26215227/ccs_uid_375819
+m54257_210914_210835/16187926/ccs	pacbio	1597	26.0	9.0			m54257_210414_133237/18219909/ccs_uid_375703
+m54257_210914_041224/7995693/ccs	pacbio	1135	33.0	9.0			m54257_210914_210835/16187926/ccs_1597
+m54257_210914_041224/7733936/ccs	pacbio	1973	46.0	9.0			m54257_210914_041224/7995693/ccs_1135
+m54257_210414_133237/4653264/ccs	pacbio	uid_375711	34.0	9.0			m54257_210914_041224/7733936/ccs_1973
+m54257_210914_041224/37879875/ccs	pacbio	1135	39.0	9.0			m54257_210414_133237/4653264/ccs_uid_375711
+m54257_210913_175418/47514085/ccs	pacbio	1262	24.0	9.0			m54257_210914_041224/37879875/ccs_1135
+m54257_210914_041224/36438876/ccs	pacbio	2925	63.0	9.0			m54257_210913_175418/47514085/ccs_1262
+m54257_210914_041224/32374962/ccs	pacbio	1928	38.0	9.0			m54257_210914_041224/36438876/ccs_2925
+m54257_210914_041224/15073810/ccs	pacbio	1135	46.0	9.0			m54257_210914_041224/32374962/ccs_1928
+m54257_210915_072622/14418106/ccs	pacbio	1068	41.0	9.0			m54257_210914_041224/15073810/ccs_1135
+m54257_210914_041224/21430336/ccs	pacbio	1135	70.0	9.0			m54257_210915_072622/14418106/ccs_1068
+m54257_210914_041224/15663302/ccs	pacbio	1135	19.0	9.0			m54257_210914_041224/21430336/ccs_1135
+m54257_210913_175418/15990967/ccs	pacbio	1928	16.0	9.0			m54257_210914_041224/15663302/ccs_1135
+m54257_210914_041224/14156327/ccs	pacbio	1135	38.0	9.0			m54257_210913_175418/15990967/ccs_1928
+m54257_210914_041224/72286665/ccs	pacbio	916	21.0	9.0			m54257_210914_041224/14156327/ccs_1135
+m54257_210914_041224/12058725/ccs	pacbio	1135	60.0	9.0			m54257_210914_041224/72286665/ccs_916
+m54257_210913_175418/73793797/ccs	pacbio	1740	36.0	9.0			m54257_210914_041224/12058725/ccs_1135
+m54257_210425_012457/21823994/ccs	pacbio	uid_375749	41.0	9.0			m54257_210913_175418/73793797/ccs_1740
+m54257_210914_041224/18416296/ccs	pacbio	1135	26.0	9.0			m54257_210425_012457/21823994/ccs_uid_375749
+m54257_210414_133237/56033608/ccs	pacbio	uid_375664	11.0	9.0			m54257_210914_041224/18416296/ccs_1135
+m54257_210914_210835/31130498/ccs	pacbio	1483	70.0	9.0			m54257_210414_133237/56033608/ccs_uid_375664
+m54257_210914_041224/25101105/ccs	pacbio	1135	49.0	9.0			m54257_210914_210835/31130498/ccs_1483
+m54257_210913_175418/15532589/ccs	pacbio	1332	35.0	9.0			m54257_210914_041224/25101105/ccs_1135
+m54257_210425_181849/70452005/ccs	pacbio	uid_375751	40.0	9.0			m54257_210913_175418/15532589/ccs_1332
+m54257_210914_041224/14287151/ccs	pacbio	1135	33.0	9.0			m54257_210425_181849/70452005/ccs_uid_375751
+m54257_210414_133237/56230461/ccs	pacbio	uid_375664	31.0	9.0			m54257_210914_041224/14287151/ccs_1135
+m54257_210913_175418/6816385/ccs	pacbio	1074	23.0	9.0			m54257_210414_133237/56230461/ccs_uid_375664
+m54257_210914_041224/24445240/ccs	pacbio	1135	47.0	9.0			m54257_210913_175418/6816385/ccs_1074
+m54257_210914_210835/28049673/ccs	pacbio	1435	55.0	9.0			m54257_210914_041224/24445240/ccs_1135
+m54257_210915_072622/13829119/ccs	pacbio	257	34.0	9.0			m54257_210914_210835/28049673/ccs_1435
+m54257_210913_175418/21037777/ccs	pacbio	1740	22.0	8.0			m54257_210915_072622/13829119/ccs_257
+m54257_210913_175418/22741744/ccs	pacbio	1740	25.0	8.0			m54257_210913_175418/21037777/ccs_1740
+m54257_210913_175418/29361037/ccs	pacbio	2282	37.0	8.0			m54257_210913_175418/22741744/ccs_1740
+m54257_210913_175418/56230239/ccs	pacbio	1262	23.0	8.0			m54257_210913_175418/29361037/ccs_2282
+m54257_210425_012457/17368034/ccs	pacbio	uid_375757	40.0	8.0			m54257_210913_175418/56230239/ccs_1262
+m54257_210425_012457/18219454/ccs	pacbio	uid_375813	8.0	8.0			m54257_210425_012457/17368034/ccs_uid_375757
+m54257_210425_012457/26870707/ccs	pacbio	uid_375818	24.0	8.0			m54257_210425_012457/18219454/ccs_uid_375813
+m54257_210414_133237/51643164/ccs	pacbio	uid_375699	20.0	8.0			m54257_210425_012457/26870707/ccs_uid_375818
+m54257_210913_175418/14418215/ccs	pacbio	1316	27.0	8.0			m54257_210414_133237/51643164/ccs_uid_375699
+m54257_210915_072622/18350963/ccs	pacbio	1068	31.0	8.0			m54257_210913_175418/14418215/ccs_1316
+m54257_210414_133237/27853206/ccs	pacbio	uid_375721	48.0	8.0			m54257_210915_072622/18350963/ccs_1068
+m54257_210915_072622/12845453/ccs	pacbio	2072	55.0	8.0			m54257_210414_133237/27853206/ccs_uid_375721
+m54257_210913_175418/63308550/ccs	pacbio	1471	38.0	8.0			m54257_210915_072622/12845453/ccs_2072
+m54257_210913_175418/43123157/ccs	pacbio	2252	12.0	8.0			m54257_210913_175418/63308550/ccs_1471
+m54257_210914_041224/11404020/ccs	pacbio	1135	39.0	8.0			m54257_210913_175418/43123157/ccs_2252
+m54257_210915_072622/62980997/ccs	pacbio	1068	19.0	8.0			m54257_210914_041224/11404020/ccs_1135
+m54257_210414_133237/23986703/ccs	pacbio	uid_375733	18.0	8.0			m54257_210915_072622/62980997/ccs_1068
+m54257_210914_210835/22610839/ccs	pacbio	80	26.0	8.0			m54257_210414_133237/23986703/ccs_uid_375733
+m54257_210914_041224/20251321/ccs	pacbio	1135	44.0	8.0			m54257_210914_210835/22610839/ccs_80
+m54257_210414_133237/17039519/ccs	pacbio	uid_375716	21.0	8.0			m54257_210914_041224/20251321/ccs_1135
+m54257_210914_210835/13829101/ccs	pacbio	1558	10.0	8.0			m54257_210414_133237/17039519/ccs_uid_375716
+m54257_210414_133237/28639538/ccs	pacbio	uid_375659	21.0	8.0			m54257_210914_210835/13829101/ccs_1558
+m54257_210914_041224/29295236/ccs	pacbio	1135	17.0	8.0			m54257_210414_133237/28639538/ccs_uid_375659
+m54257_210914_041224/25625105/ccs	pacbio	1135	26.0	8.0			m54257_210914_041224/29295236/ccs_1135
+m54257_210914_210835/57999615/ccs	pacbio	169	44.0	8.0			m54257_210914_041224/25625105/ccs_1135
+m54257_210914_041224/21954955/ccs	pacbio	1135	28.0	8.0			m54257_210914_210835/57999615/ccs_169
+m54257_210914_041224/5309103/ccs	pacbio	1135	13.0	8.0			m54257_210914_041224/21954955/ccs_1135
+m54257_210425_012457/41878440/ccs	pacbio	uid_375743	15.0	8.0			m54257_210914_041224/5309103/ccs_1135
+m54257_210425_012457/14549353/ccs	pacbio	uid_375783	21.0	8.0			m54257_210425_012457/41878440/ccs_uid_375743
+m54257_210914_210835/12583048/ccs	pacbio	1483	67.0	8.0			m54257_210425_012457/14549353/ccs_uid_375783
+m54257_210914_210835/35783079/ccs	pacbio	1558	24.0	8.0			m54257_210914_210835/12583048/ccs_1483
+m54257_210913_175418/40239640/ccs	pacbio	1606	20.0	8.0			m54257_210914_210835/35783079/ccs_1558
+m54257_210913_175418/15335491/ccs	pacbio	1162	39.0	8.0			m54257_210913_175418/40239640/ccs_1606
+m54257_210914_041224/32374944/ccs	pacbio	1135	31.0	8.0			m54257_210913_175418/15335491/ccs_1162
+m54257_210414_133237/14876939/ccs	pacbio	uid_375733	34.0	8.0			m54257_210914_041224/32374944/ccs_1135
+m54257_210425_012457/11206851/ccs	pacbio	uid_375800	16.0	8.0			m54257_210414_133237/14876939/ccs_uid_375733
+m54257_210914_041224/13108196/ccs	pacbio	1135	22.0	8.0			m54257_210425_012457/11206851/ccs_uid_375800
+m54257_210913_175418/30737210/ccs	pacbio	1740	16.0	8.0			m54257_210914_041224/13108196/ccs_1135
+m54257_210914_041224/14287271/ccs	pacbio	1135	53.0	8.0			m54257_210913_175418/30737210/ccs_1740
+m54257_210914_210835/40108233/ccs	pacbio	1558	16.0	8.0			m54257_210914_041224/14287271/ccs_1135
+m54257_210425_012457/6619569/ccs	pacbio	uid_375803	46.0	8.0			m54257_210914_210835/40108233/ccs_1558
+m54257_210914_210835/22807485/ccs	pacbio	1243	55.0	8.0			m54257_210425_012457/6619569/ccs_uid_375803
+m54257_210914_041224/11600551/ccs	pacbio	1135	11.0	8.0			m54257_210914_210835/22807485/ccs_1243
+m54257_210425_012457/26608079/ccs	pacbio	uid_375753	58.0	8.0			m54257_210914_041224/11600551/ccs_1135
+m54257_210425_012457/25101167/ccs	pacbio	uid_375743	21.0	8.0			m54257_210425_012457/26608079/ccs_uid_375753
+m54257_210913_175418/35783527/ccs	pacbio	1135	37.0	8.0			m54257_210425_012457/25101167/ccs_uid_375743
+m54257_210425_012457/53478355/ccs	pacbio	uid_375755	66.0	8.0			m54257_210913_175418/35783527/ccs_1135
+m54257_210913_175418/15139250/ccs	pacbio	1262	36.0	8.0			m54257_210425_012457/53478355/ccs_uid_375755
+m54257_210914_041224/6685121/ccs	pacbio	3041	43.0	8.0			m54257_210913_175418/15139250/ccs_1262
+m54257_210914_041224/37225268/ccs	pacbio	1135	32.0	8.0			m54257_210914_041224/6685121/ccs_3041
+m54257_210914_041224/12124569/ccs	pacbio	1135	21.0	8.0			m54257_210914_041224/37225268/ccs_1135
+m54257_210425_012457/6160957/ccs	pacbio	uid_375800	65.0	8.0			m54257_210914_041224/12124569/ccs_1135
+m54257_210425_012457/36438650/ccs	pacbio	uid_375790	62.0	8.0			m54257_210425_012457/6160957/ccs_uid_375800
+m54257_210913_175418/44696320/ccs	pacbio	1332	20.0	8.0			m54257_210425_012457/36438650/ccs_uid_375790
+m54257_210914_210835/19136863/ccs	pacbio	1327	25.0	8.0			m54257_210913_175418/44696320/ccs_1332
+m54257_210914_041224/60752810/ccs	pacbio	1135	14.0	8.0			m54257_210914_210835/19136863/ccs_1327
+m54257_210913_175418/47055068/ccs	pacbio	1479	40.0	8.0			m54257_210914_041224/60752810/ccs_1135
+m54257_210914_210835/4981384/ccs	pacbio	1447	43.0	8.0			m54257_210913_175418/47055068/ccs_1479
+m54257_210913_175418/16188287/ccs	pacbio	1010	38.0	8.0			m54257_210914_210835/4981384/ccs_1447
+m54257_210914_210835/4719174/ccs	pacbio	2054	18.0	8.0			m54257_210913_175418/16188287/ccs_1010
+m54257_210914_041224/11403735/ccs	pacbio	1606	14.0	8.0			m54257_210914_210835/4719174/ccs_2054
+m54257_210914_041224/5177966/ccs	pacbio	1135	53.0	8.0			m54257_210914_041224/11403735/ccs_1606
+m54257_210414_133237/22347846/ccs	pacbio	uid_375711	7.0	8.0			m54257_210914_041224/5177966/ccs_1135
+m54257_210913_175418/58523751/ccs	pacbio	1313	28.0	8.0			m54257_210414_133237/22347846/ccs_uid_375711
+m54257_210913_175418/21692848/ccs	pacbio	1740	25.0	8.0			m54257_210913_175418/58523751/ccs_1313
+m54257_210414_133237/21365754/ccs	pacbio	uid_375726	13.0	8.0			m54257_210913_175418/21692848/ccs_1740
+m54257_210914_041224/26804302/ccs	pacbio	1281	18.0	8.0			m54257_210414_133237/21365754/ccs_uid_375726
+m54257_210414_133237/22085834/ccs	pacbio	uid_375733	54.0	8.0			m54257_210914_041224/26804302/ccs_1281
+m54257_210414_133237/13566216/ccs	pacbio	uid_375733	13.0	8.0			m54257_210414_133237/22085834/ccs_uid_375733
+m54257_210913_175418/53936709/ccs	pacbio	1313	25.0	8.0			m54257_210414_133237/13566216/ccs_uid_375733
+m54257_210915_072622/68747338/ccs	pacbio	1068	16.0	8.0			m54257_210913_175418/53936709/ccs_1313
+m54257_210914_041224/12976598/ccs	pacbio	1135	44.0	8.0			m54257_210915_072622/68747338/ccs_1068
+m54257_210913_175418/11338287/ccs	pacbio	1313	39.0	8.0			m54257_210914_041224/12976598/ccs_1135
+m54257_210914_210835/13828823/ccs	pacbio	1702	45.0	8.0			m54257_210913_175418/11338287/ccs_1313
+m54257_210914_210835/36503641/ccs	pacbio	1435	58.0	8.0			m54257_210914_210835/13828823/ccs_1702
+m54257_210913_175418/39519203/ccs	pacbio	1740	13.0	8.0			m54257_210914_210835/36503641/ccs_1435
+m54257_210425_012457/4588338/ccs	pacbio	uid_375766	22.0	8.0			m54257_210913_175418/39519203/ccs_1740
+m54257_210425_012457/15597680/ccs	pacbio	uid_375766	28.0	8.0			m54257_210425_012457/4588338/ccs_uid_375766
+m54257_210914_210835/36175938/ccs	pacbio	1558	11.0	8.0			m54257_210425_012457/15597680/ccs_uid_375766
+m54257_210914_041224/21037376/ccs	pacbio	1135	51.0	7.0			m54257_210914_210835/36175938/ccs_1558
+m54257_210425_181849/4653505/ccs	pacbio	uid_375766	49.0	7.0			m54257_210914_041224/21037376/ccs_1135
+m54257_210414_133237/60555546/ccs	pacbio	uid_375699	25.0	7.0			m54257_210425_181849/4653505/ccs_uid_375766
+m54257_210914_041224/4981256/ccs	pacbio	1135	63.0	7.0			m54257_210414_133237/60555546/ccs_uid_375699
+m54257_210915_072622/35652290/ccs	pacbio	1068	45.0	7.0			m54257_210914_041224/4981256/ccs_1135
+m54257_210914_210835/39256761/ccs	pacbio	122	20.0	7.0			m54257_210915_072622/35652290/ccs_1068
+m54257_210914_041224/12452035/ccs	pacbio	1135	19.0	7.0			m54257_210914_210835/39256761/ccs_122
+m54257_210914_041224/13893904/ccs	pacbio	1135	71.0	7.0			m54257_210914_041224/12452035/ccs_1135
+m54257_210914_210835/37356260/ccs	pacbio	1435	40.0	7.0			m54257_210914_041224/13893904/ccs_1135
+m54257_210914_041224/20644435/ccs	pacbio	1135	49.0	7.0			m54257_210914_210835/37356260/ccs_1435
+m54257_210425_012457/19595897/ccs	pacbio	uid_375764	38.0	7.0			m54257_210914_041224/20644435/ccs_1135
+m54257_210914_041224/15139408/ccs	pacbio	1135	37.0	7.0			m54257_210425_012457/19595897/ccs_uid_375764
+m54257_210914_041224/31391841/ccs	pacbio	1135	52.0	7.0			m54257_210914_041224/15139408/ccs_1135
+m54257_210914_210835/70713560/ccs	pacbio	1327	49.0	7.0			m54257_210914_041224/31391841/ccs_1135
+m54257_210914_041224/49939320/ccs	pacbio	1135	13.0	7.0			m54257_210914_210835/70713560/ccs_1327
+m54257_210913_175418/28836761/ccs	pacbio	1262	18.0	7.0			m54257_210914_041224/49939320/ccs_1135
+m54257_210914_041224/20906608/ccs	pacbio	160	41.0	7.0			m54257_210913_175418/28836761/ccs_1262
+m54257_210425_012457/16646493/ccs	pacbio	uid_375794	22.0	7.0			m54257_210914_041224/20906608/ccs_160
+m54257_210914_041224/65274374/ccs	pacbio	916	9.0	7.0			m54257_210425_012457/16646493/ccs_uid_375794
+m54257_210425_012457/22347959/ccs	pacbio	uid_375790	39.0	7.0			m54257_210914_041224/65274374/ccs_916
+m54257_210914_210835/10551665/ccs	pacbio	1558	36.0	7.0			m54257_210425_012457/22347959/ccs_uid_375790
+m54257_210914_210835/4522632/ccs	pacbio	1327	16.0	7.0			m54257_210914_210835/10551665/ccs_1558
+m54257_210414_133237/44367947/ccs	pacbio	uid_375716	67.0	7.0			m54257_210914_210835/4522632/ccs_1327
+m54257_210425_012457/28311712/ccs	pacbio	uid_375794	41.0	7.0			m54257_210414_133237/44367947/ccs_uid_375716
+m54257_210913_175418/31327057/ccs	pacbio	1313	41.0	7.0			m54257_210425_012457/28311712/ccs_uid_375794
+m54257_210914_210835/50529256/ccs	pacbio	80	61.0	7.0			m54257_210913_175418/31327057/ccs_1313
+m54257_210425_012457/13304549/ccs	pacbio	uid_375813	30.0	7.0			m54257_210914_210835/50529256/ccs_80
+m54257_210914_210835/4981158/ccs	pacbio	2054	13.0	7.0			m54257_210425_012457/13304549/ccs_uid_375813
+m54257_210913_175418/24052619/ccs	pacbio	1973	41.0	7.0			m54257_210914_210835/4981158/ccs_2054
+m54257_210914_041224/34014173/ccs	pacbio	1281	19.0	7.0			m54257_210913_175418/24052619/ccs_1973
+m54257_210913_175418/34472816/ccs	pacbio	1313	34.0	7.0			m54257_210914_041224/34014173/ccs_1281
+m54257_210425_181849/24642160/ccs	pacbio	uid_375752	20.0	7.0			m54257_210913_175418/34472816/ccs_1313
+m54257_210914_210835/28312465/ccs	pacbio	80	65.0	7.0			m54257_210425_181849/24642160/ccs_uid_375752
+m54257_210914_210835/20841071/ccs	pacbio	1483	21.0	7.0			m54257_210914_210835/28312465/ccs_80
+m54257_210425_181849/23528277/ccs	pacbio	uid_375739	35.0	7.0			m54257_210914_210835/20841071/ccs_1483
+m54257_210913_175418/56296231/ccs	pacbio	1471	16.0	7.0			m54257_210425_181849/23528277/ccs_uid_375739
+m54257_210913_175418/54788443/ccs	pacbio	1135	21.0	7.0			m54257_210913_175418/56296231/ccs_1471
+m54257_210414_133237/23003459/ccs	pacbio	uid_375716	19.0	7.0			m54257_210913_175418/54788443/ccs_1135
+m54257_210914_041224/19464716/ccs	pacbio	160	32.0	7.0			m54257_210414_133237/23003459/ccs_uid_375716
+m54257_210914_210835/43843874/ccs	pacbio	1068	51.0	7.0			m54257_210914_041224/19464716/ccs_160
+m54257_210915_072622/18875217/ccs	pacbio	8	14.0	7.0			m54257_210914_210835/43843874/ccs_1068
+m54257_210914_041224/12190537/ccs	pacbio	1135	66.0	7.0			m54257_210915_072622/18875217/ccs_8
+m54257_210914_210835/40436445/ccs	pacbio	1327	16.0	7.0			m54257_210914_041224/12190537/ccs_1135
+m54257_210425_012457/21038026/ccs	pacbio	uid_375747	72.0	7.0			m54257_210914_210835/40436445/ccs_1327
+m54257_210914_041224/15270414/ccs	pacbio	1135	13.0	7.0			m54257_210425_012457/21038026/ccs_uid_375747
+m54257_210425_012457/13435536/ccs	pacbio	uid_375800	15.0	7.0			m54257_210914_041224/15270414/ccs_1135
+m54257_210914_041224/62980800/ccs	pacbio	1135	50.0	7.0			m54257_210425_012457/13435536/ccs_uid_375800
+m54257_210914_041224/13501235/ccs	pacbio	1135	39.0	7.0			m54257_210914_041224/62980800/ccs_1135
+m54257_210913_175418/31850883/ccs	pacbio	1332	21.0	7.0			m54257_210914_041224/13501235/ccs_1135
+m54257_210414_133237/20775049/ccs	pacbio	uid_375726	28.0	7.0			m54257_210913_175418/31850883/ccs_1332
+m54257_210914_210835/15860258/ccs	pacbio	1435	46.0	7.0			m54257_210414_133237/20775049/ccs_uid_375726
+m54257_210414_133237/71238552/ccs	pacbio	uid_375664	18.0	7.0			m54257_210914_210835/15860258/ccs_1435
+m54257_210915_072622/31785329/ccs	pacbio	1068	18.0	7.0			m54257_210414_133237/71238552/ccs_uid_375664
+m54257_210913_175418/15532510/ccs	pacbio	1471	42.0	7.0			m54257_210915_072622/31785329/ccs_1068
+m54257_210913_175418/21233973/ccs	pacbio	1225	23.0	7.0			m54257_210913_175418/15532510/ccs_1471
+m54257_210425_012457/55509877/ccs	pacbio	uid_375753	22.0	7.0			m54257_210913_175418/21233973/ccs_1225
+m54257_210913_175418/10485894/ccs	pacbio	1479	42.0	7.0			m54257_210425_012457/55509877/ccs_uid_375753
+m54257_210913_175418/6685089/ccs	pacbio	1010	35.0	7.0			m54257_210913_175418/10485894/ccs_1479
+m54257_210425_012457/15860400/ccs	pacbio	uid_375766	36.0	7.0			m54257_210913_175418/6685089/ccs_1010
+m54257_210915_072622/5177923/ccs	pacbio	1099	22.0	7.0			m54257_210425_012457/15860400/ccs_uid_375766
+m54257_210913_175418/19923715/ccs	pacbio	1740	23.0	7.0			m54257_210915_072622/5177923/ccs_1099
+m54257_210914_041224/29622570/ccs	pacbio	1135	59.0	7.0			m54257_210913_175418/19923715/ccs_1740
+m54257_210913_175418/45482359/ccs	pacbio	1880	14.0	7.0			m54257_210914_041224/29622570/ccs_1135
+m54257_210915_072622/52232548/ccs	pacbio	123	66.0	7.0			m54257_210913_175418/45482359/ccs_1880
+m54257_210425_012457/28967907/ccs	pacbio	uid_375816	61.0	7.0			m54257_210915_072622/52232548/ccs_123
+m54257_210914_041224/27656930/ccs	pacbio	1135	16.0	7.0			m54257_210425_012457/28967907/ccs_uid_375816
+m54257_210914_041224/14549460/ccs	pacbio	1135	25.0	7.0			m54257_210914_041224/27656930/ccs_1135
+m54257_210914_041224/33817189/ccs	pacbio	1135	49.0	7.0			m54257_210914_041224/14549460/ccs_1135
+m54257_210914_041224/28509017/ccs	pacbio	1135	34.0	7.0			m54257_210914_041224/33817189/ccs_1135
+m54257_210414_133237/17236054/ccs	pacbio	uid_375716	19.0	7.0			m54257_210914_041224/28509017/ccs_1135
+m54257_210914_041224/28836055/ccs	pacbio	1135	35.0	7.0			m54257_210414_133237/17236054/ccs_uid_375716
+m54257_210425_012457/19202836/ccs	pacbio	uid_375819	14.0	7.0			m54257_210914_041224/28836055/ccs_1135
+m54257_210914_041224/27656903/ccs	pacbio	1135	12.0	7.0			m54257_210425_012457/19202836/ccs_uid_375819
+m54257_210913_175418/36963295/ccs	pacbio	1740	28.0	7.0			m54257_210914_041224/27656903/ccs_1135
+m54257_210914_041224/5505994/ccs	pacbio	1135	53.0	7.0			m54257_210913_175418/36963295/ccs_1740
+m54257_210913_175418/45613297/ccs	pacbio	1332	34.0	7.0			m54257_210914_041224/5505994/ccs_1135
+m54257_210914_041224/22872494/ccs	pacbio	1135	37.0	7.0			m54257_210913_175418/45613297/ccs_1332
+m54257_210914_041224/24838664/ccs	pacbio	1135	29.0	7.0			m54257_210914_041224/22872494/ccs_1135
+m54257_210414_133237/23987186/ccs	pacbio	uid_375716	53.0	7.0			m54257_210914_041224/24838664/ccs_1135
+m54257_210425_012457/62193966/ccs	pacbio	uid_375794	45.0	7.0			m54257_210414_133237/23987186/ccs_uid_375716
+m54257_210414_133237/22806699/ccs	pacbio	uid_375716	39.0	7.0			m54257_210425_012457/62193966/ccs_uid_375794
+m54257_210914_041224/8126857/ccs	pacbio	1135	64.0	7.0			m54257_210414_133237/22806699/ccs_uid_375716
+m54257_210425_012457/31064412/ccs	pacbio	uid_375747	19.0	7.0			m54257_210914_041224/8126857/ccs_1135
+m54257_210914_041224/5636932/ccs	pacbio	1135	51.0	7.0			m54257_210425_012457/31064412/ccs_uid_375747
+m54257_210914_041224/19530206/ccs	pacbio	1135	25.0	7.0			m54257_210914_041224/5636932/ccs_1135
+m54257_210914_041224/25100636/ccs	pacbio	1135	16.0	7.0			m54257_210914_041224/19530206/ccs_1135
+m54257_210914_041224/27328601/ccs	pacbio	1135	22.0	7.0			m54257_210914_041224/25100636/ccs_1135
+m54257_210914_210835/43319928/ccs	pacbio	711	37.0	7.0			m54257_210914_041224/27328601/ccs_1135
+m54257_210414_133237/20971731/ccs	pacbio	uid_375733	42.0	7.0			m54257_210914_210835/43319928/ccs_711
+m54257_210913_175418/29425896/ccs	pacbio	1313	30.0	7.0			m54257_210414_133237/20971731/ccs_uid_375733
+m54257_210425_012457/10879616/ccs	pacbio	uid_375747	14.0	7.0			m54257_210913_175418/29425896/ccs_1313
+m54257_210414_133237/20906812/ccs	pacbio	uid_375733	52.0	7.0			m54257_210425_012457/10879616/ccs_uid_375747
+m54257_210425_012457/15008197/ccs	pacbio	uid_375757	29.0	7.0			m54257_210414_133237/20906812/ccs_uid_375733
+m54257_210425_012457/55902681/ccs	pacbio	uid_375747	27.0	7.0			m54257_210425_012457/15008197/ccs_uid_375757
+m54257_210425_012457/48300532/ccs	pacbio	uid_375794	61.0	7.0			m54257_210425_012457/55902681/ccs_uid_375747
+m54257_210414_133237/11207422/ccs	pacbio	uid_375716	34.0	7.0			m54257_210425_012457/48300532/ccs_uid_375794
+m54257_210414_133237/25100862/ccs	pacbio	uid_375733	36.0	7.0			m54257_210414_133237/11207422/ccs_uid_375716
+m54257_210414_133237/24707591/ccs	pacbio	uid_375732	21.0	7.0			m54257_210414_133237/25100862/ccs_uid_375733
+m54257_210425_012457/30409670/ccs	pacbio	uid_375747	9.0	7.0			m54257_210414_133237/24707591/ccs_uid_375732
+m54257_210914_041224/7668451/ccs	pacbio	1135	63.0	7.0			m54257_210425_012457/30409670/ccs_uid_375747
+m54257_210913_175418/7537313/ccs	pacbio	1316	34.0	6.0			m54257_210914_041224/7668451/ccs_1135
+m54257_210914_210835/46072680/ccs	pacbio	1558	13.0	6.0			m54257_210913_175418/7537313/ccs_1316
+m54257_210913_175418/39846574/ccs	pacbio	1880	18.0	6.0			m54257_210914_210835/46072680/ccs_1558
+m54257_210914_041224/23003693/ccs	pacbio	1135	51.0	6.0			m54257_210913_175418/39846574/ccs_1880
+m54257_210414_133237/23069674/ccs	pacbio	uid_375733	30.0	6.0			m54257_210914_041224/23003693/ccs_1135
+m54257_210915_072622/24511110/ccs	pacbio	1068	22.0	6.0			m54257_210414_133237/23069674/ccs_uid_375733
+m54257_210914_041224/70517475/ccs	pacbio	1928	18.0	6.0			m54257_210915_072622/24511110/ccs_1068
+m54257_210913_175418/18481904/ccs	pacbio	1313	17.0	6.0			m54257_210914_041224/70517475/ccs_1928
+m54257_210914_210835/37028279/ccs	pacbio	2875	12.0	6.0			m54257_210913_175418/18481904/ccs_1313
+m54257_210914_041224/22282560/ccs	pacbio	2398	48.0	6.0			m54257_210914_210835/37028279/ccs_2875
+m54257_210414_133237/20840667/ccs	pacbio	uid_375703	13.0	6.0			m54257_210914_041224/22282560/ccs_2398
+m54257_210414_133237/19268344/ccs	pacbio	uid_375654	30.0	6.0			m54257_210414_133237/20840667/ccs_uid_375703
+m54257_210914_041224/6226388/ccs	pacbio	1135	26.0	6.0			m54257_210414_133237/19268344/ccs_uid_375654
+m54257_210914_041224/38994499/ccs	pacbio	1135	22.0	6.0			m54257_210914_041224/6226388/ccs_1135
+m54257_210914_041224/27656433/ccs	pacbio	1135	27.0	6.0			m54257_210914_041224/38994499/ccs_1135
+m54257_210414_133237/23920755/ccs	pacbio	uid_375716	12.0	6.0			m54257_210914_041224/27656433/ccs_1135
+m54257_210914_041224/38469703/ccs	pacbio	1135	39.0	6.0			m54257_210414_133237/23920755/ccs_uid_375716
+m54257_210914_041224/6030043/ccs	pacbio	1135	24.0	6.0			m54257_210914_041224/38469703/ccs_1135
+m54257_210425_012457/21430413/ccs	pacbio	uid_375800	14.0	6.0			m54257_210914_041224/6030043/ccs_1135
+m54257_210914_041224/29557362/ccs	pacbio	1135	19.0	6.0			m54257_210425_012457/21430413/ccs_uid_375800
+m54257_210914_210835/13239106/ccs	pacbio	1483	45.0	6.0			m54257_210914_041224/29557362/ccs_1135
+m54257_210914_041224/11600752/ccs	pacbio	1135	52.0	6.0			m54257_210914_210835/13239106/ccs_1483
+m54257_210913_175418/37159669/ccs	pacbio	1332	22.0	6.0			m54257_210914_041224/11600752/ccs_1135
+m54257_210914_210835/17760930/ccs	pacbio	1068	55.0	6.0			m54257_210913_175418/37159669/ccs_1332
+m54257_210913_175418/10223739/ccs	pacbio	1313	25.0	6.0			m54257_210914_210835/17760930/ccs_1068
+m54257_210913_175418/52364037/ccs	pacbio	1740	19.0	6.0			m54257_210913_175418/10223739/ccs_1313
+m54257_210914_041224/15926147/ccs	pacbio	1074	34.0	6.0			m54257_210913_175418/52364037/ccs_1740
+m54257_210913_175418/25560017/ccs	pacbio	1740	20.0	6.0			m54257_210914_041224/15926147/ccs_1074
+m54257_210425_012457/36700766/ccs	pacbio	uid_375739	34.0	6.0			m54257_210913_175418/25560017/ccs_1740
+m54257_210414_133237/14614788/ccs	pacbio	uid_375712	58.0	6.0			m54257_210425_012457/36700766/ccs_uid_375739
+m54257_210414_133237/20447309/ccs	pacbio	uid_375643	50.0	6.0			m54257_210414_133237/14614788/ccs_uid_375712
+m54257_210425_012457/57934718/ccs	pacbio	uid_375743	57.0	6.0			m54257_210414_133237/20447309/ccs_uid_375643
+m54257_210913_175418/18285349/ccs	pacbio	1973	15.0	6.0			m54257_210425_012457/57934718/ccs_uid_375743
+m54257_210915_072622/11993154/ccs	pacbio	1068	14.0	6.0			m54257_210913_175418/18285349/ccs_1973
+m54257_210914_210835/25822069/ccs	pacbio	849	62.0	6.0			m54257_210915_072622/11993154/ccs_1068
+m54257_210914_041224/11600554/ccs	pacbio	1135	28.0	6.0			m54257_210914_210835/25822069/ccs_849
+m54257_210914_210835/18022861/ccs	pacbio	169	50.0	6.0			m54257_210914_041224/11600554/ccs_1135
+m54257_210913_175418/28573833/ccs	pacbio	1740	11.0	6.0			m54257_210914_210835/18022861/ccs_169
+m54257_210914_210835/13172899/ccs	pacbio	1483	65.0	6.0			m54257_210913_175418/28573833/ccs_1740
+m54257_210915_072622/24773502/ccs	pacbio	1068	28.0	6.0			m54257_210914_210835/13172899/ccs_1483
+m54257_210425_012457/43909377/ccs	pacbio	uid_375794	20.0	6.0			m54257_210915_072622/24773502/ccs_1068
+m54257_210913_175418/49807763/ccs	pacbio	1471	39.0	6.0			m54257_210425_012457/43909377/ccs_uid_375794
+m54257_210915_072622/25362759/ccs	pacbio	1068	12.0	6.0			m54257_210913_175418/49807763/ccs_1471
+m54257_210414_133237/20971589/ccs	pacbio	uid_375703	9.0	6.0			m54257_210915_072622/25362759/ccs_1068
+m54257_210913_175418/40371075/ccs	pacbio	1880	33.0	6.0			m54257_210414_133237/20971589/ccs_uid_375703
+m54257_210914_041224/35651775/ccs	pacbio	1135	20.0	6.0			m54257_210913_175418/40371075/ccs_1880
+m54257_210914_210835/27263854/ccs	pacbio	80	17.0	6.0			m54257_210914_041224/35651775/ccs_1135
+m54257_210914_210835/57082188/ccs	pacbio	1558	27.0	6.0			m54257_210914_210835/27263854/ccs_80
+m54257_210425_012457/31130385/ccs	pacbio	uid_375790	44.0	6.0			m54257_210914_210835/57082188/ccs_1558
+m54257_210914_041224/11534546/ccs	pacbio	1135	14.0	6.0			m54257_210425_012457/31130385/ccs_uid_375790
+m54257_210425_012457/15532370/ccs	pacbio	uid_375803	43.0	6.0			m54257_210914_041224/11534546/ccs_1135
+m54257_210425_012457/11207624/ccs	pacbio	uid_375753	27.0	6.0			m54257_210425_012457/15532370/ccs_uid_375803
+m54257_210914_210835/19071647/ccs	pacbio	1327	12.0	6.0			m54257_210425_012457/11207624/ccs_uid_375753
+m54257_210425_012457/22217451/ccs	pacbio	uid_375800	17.0	6.0			m54257_210914_210835/19071647/ccs_1327
+m54257_210425_012457/21758787/ccs	pacbio	uid_375739	76.0	6.0			m54257_210425_012457/22217451/ccs_uid_375800
+m54257_210914_041224/31195574/ccs	pacbio	1135	35.0	6.0			m54257_210425_012457/21758787/ccs_uid_375739
+m54257_210915_072622/17891994/ccs	pacbio	1558	29.0	6.0			m54257_210914_041224/31195574/ccs_1135
+m54257_210425_012457/17826640/ccs	pacbio	uid_375791	19.0	6.0			m54257_210915_072622/17891994/ccs_1558
+m54257_210914_041224/40436365/ccs	pacbio	1135	54.0	6.0			m54257_210425_012457/17826640/ccs_uid_375791
+m54257_210914_041224/45941336/ccs	pacbio	1135	39.0	6.0			m54257_210914_041224/40436365/ccs_1135
+m54257_210913_175418/38404185/ccs	pacbio	2282	51.0	6.0			m54257_210914_041224/45941336/ccs_1135
+m54257_210425_012457/4784387/ccs	pacbio	uid_375796	11.0	6.0			m54257_210913_175418/38404185/ccs_2282
+m54257_210913_175418/18088400/ccs	pacbio	1606	12.0	6.0			m54257_210425_012457/4784387/ccs_uid_375796
+m54257_210914_210835/18023078/ccs	pacbio	1483	26.0	6.0			m54257_210913_175418/18088400/ccs_1606
+m54257_210425_012457/12517580/ccs	pacbio	uid_375757	9.0	6.0			m54257_210914_210835/18023078/ccs_1483
+m54257_210913_175418/65012552/ccs	pacbio	1740	35.0	6.0			m54257_210425_012457/12517580/ccs_uid_375757
+m54257_210914_041224/44368209/ccs	pacbio	1135	35.0	6.0			m54257_210913_175418/65012552/ccs_1740
+m54257_210913_175418/42533398/ccs	pacbio	1740	21.0	6.0			m54257_210914_041224/44368209/ccs_1135
+m54257_210913_175418/5046360/ccs	pacbio	1698	25.0	6.0			m54257_210913_175418/42533398/ccs_1740
+m54257_210914_041224/24445884/ccs	pacbio	1135	59.0	6.0			m54257_210913_175418/5046360/ccs_1698
+m54257_210425_012457/12386774/ccs	pacbio	uid_375755	60.0	6.0			m54257_210914_041224/24445884/ccs_1135
+m54257_210914_041224/48825166/ccs	pacbio	1135	56.0	6.0			m54257_210425_012457/12386774/ccs_uid_375755
+m54257_210913_175418/68223747/ccs	pacbio	1332	42.0	6.0			m54257_210914_041224/48825166/ccs_1135
+m54257_210414_133237/22151364/ccs	pacbio	uid_375712	40.0	6.0			m54257_210913_175418/68223747/ccs_1332
+m54257_210914_041224/5898540/ccs	pacbio	1135	53.0	6.0			m54257_210414_133237/22151364/ccs_uid_375712
+m54257_210914_041224/21234332/ccs	pacbio	1135	17.0	6.0			m54257_210914_041224/5898540/ccs_1135
+m54257_210914_041224/45679514/ccs	pacbio	1135	36.0	6.0			m54257_210914_041224/21234332/ccs_1135
+m54257_210914_041224/5440104/ccs	pacbio	1281	24.0	6.0			m54257_210914_041224/45679514/ccs_1135
+m54257_210913_175418/61145933/ccs	pacbio	1010	42.0	6.0			m54257_210914_041224/5440104/ccs_1281
+m54257_210913_175418/47972776/ccs	pacbio	1479	21.0	6.0			m54257_210913_175418/61145933/ccs_1010
+m54257_210914_210835/65012072/ccs	pacbio	1263	14.0	6.0			m54257_210913_175418/47972776/ccs_1479
+m54257_210425_012457/14483815/ccs	pacbio	uid_375743	21.0	6.0			m54257_210914_210835/65012072/ccs_1263
+m54257_210913_175418/19267721/ccs	pacbio	1186	24.0	6.0			m54257_210425_012457/14483815/ccs_uid_375743
+m54257_210914_041224/17236060/ccs	pacbio	1135	61.0	6.0			m54257_210913_175418/19267721/ccs_1186
+m54257_210914_041224/5177763/ccs	pacbio	1135	24.0	6.0			m54257_210914_041224/17236060/ccs_1135
+m54257_210914_041224/19464663/ccs	pacbio	1135	30.0	6.0			m54257_210914_041224/5177763/ccs_1135
+m54257_210425_012457/28574208/ccs	pacbio	uid_375747	16.0	6.0			m54257_210914_041224/19464663/ccs_1135
+m54257_210913_175418/42795116/ccs	pacbio	1332	32.0	6.0			m54257_210425_012457/28574208/ccs_uid_375747
+m54257_210914_210835/34210408/ccs	pacbio	1483	42.0	6.0			m54257_210913_175418/42795116/ccs_1332
+m54257_210414_133237/28115215/ccs	pacbio	uid_375712	16.0	6.0			m54257_210914_210835/34210408/ccs_1483
+m54257_210914_210835/14221868/ccs	pacbio	1435	34.0	6.0			m54257_210414_133237/28115215/ccs_uid_375712
+m54257_210914_041224/36504268/ccs	pacbio	1135	11.0	6.0			m54257_210914_210835/14221868/ccs_1435
+m54257_210914_041224/11731663/ccs	pacbio	1135	40.0	6.0			m54257_210914_041224/36504268/ccs_1135
+m54257_210414_133237/35979691/ccs	pacbio	uid_375716	51.0	6.0			m54257_210914_041224/11731663/ccs_1135
+m54257_210913_175418/52035857/ccs	pacbio	1740	29.0	6.0			m54257_210414_133237/35979691/ccs_uid_375716
+m54257_210914_210835/38273583/ccs	pacbio	169	44.0	6.0			m54257_210913_175418/52035857/ccs_1740
+m54257_210425_012457/15532466/ccs	pacbio	uid_375791	56.0	6.0			m54257_210914_210835/38273583/ccs_169
+m54257_210913_175418/12452687/ccs	pacbio	1479	35.0	6.0			m54257_210425_012457/15532466/ccs_uid_375791
+m54257_210914_041224/17630151/ccs	pacbio	1135	25.0	6.0			m54257_210913_175418/12452687/ccs_1479
+m54257_210914_041224/34341075/ccs	pacbio	491	37.0	6.0			m54257_210914_041224/17630151/ccs_1135
+m54257_210414_133237/14615185/ccs	pacbio	uid_375662	33.0	6.0			m54257_210914_041224/34341075/ccs_491
+m54257_210914_041224/42075126/ccs	pacbio	1135	61.0	6.0			m54257_210414_133237/14615185/ccs_uid_375662
+m54257_210914_210835/22479000/ccs	pacbio	169	56.0	6.0			m54257_210914_041224/42075126/ccs_1135
+m54257_210914_041224/13041786/ccs	pacbio	160	37.0	6.0			m54257_210914_210835/22479000/ccs_169
+m54257_210425_012457/46793693/ccs	pacbio	uid_375791	70.0	6.0			m54257_210914_041224/13041786/ccs_160
+m54257_210914_210835/46990158/ccs	pacbio	1558	30.0	6.0			m54257_210425_012457/46793693/ccs_uid_375791
+m54257_210414_133237/26280694/ccs	pacbio	uid_375662	18.0	6.0			m54257_210914_210835/46990158/ccs_1558
+m54257_210914_041224/46793345/ccs	pacbio	1135	36.0	6.0			m54257_210414_133237/26280694/ccs_uid_375662
+m54257_210414_133237/55051185/ccs	pacbio	uid_375716	11.0	6.0			m54257_210914_041224/46793345/ccs_1135
+m54257_210914_041224/18481601/ccs	pacbio	1135	54.0	6.0			m54257_210414_133237/55051185/ccs_uid_375716
+m54257_210425_012457/59310325/ccs	pacbio	uid_375747	41.0	6.0			m54257_210914_041224/18481601/ccs_1135
+m54257_210913_175418/45679362/ccs	pacbio	1880	13.0	6.0			m54257_210425_012457/59310325/ccs_uid_375747
+m54257_210914_041224/64094844/ccs	pacbio	1332	21.0	6.0			m54257_210913_175418/45679362/ccs_1880
+m54257_210914_210835/21169065/ccs	pacbio	169	22.0	6.0			m54257_210914_041224/64094844/ccs_1332
+m54257_210914_041224/52101825/ccs	pacbio	1135	36.0	6.0			m54257_210914_210835/21169065/ccs_169
+m54257_210425_012457/31130405/ccs	pacbio	uid_375750	19.0	6.0			m54257_210914_041224/52101825/ccs_1135
+m54257_210914_041224/71959351/ccs	pacbio	1135	16.0	6.0			m54257_210425_012457/31130405/ccs_uid_375750
+m54257_210913_175418/19137416/ccs	pacbio	1313	24.0	6.0			m54257_210914_041224/71959351/ccs_1135
+m54257_210414_133237/14091217/ccs	pacbio	uid_375733	22.0	6.0			m54257_210913_175418/19137416/ccs_1313
+m54257_210913_175418/23593322/ccs	pacbio	1332	39.0	6.0			m54257_210414_133237/14091217/ccs_uid_375733
+m54257_210915_072622/26083986/ccs	pacbio	257	51.0	6.0			m54257_210913_175418/23593322/ccs_1332
+m54257_210914_041224/36110993/ccs	pacbio	1135	23.0	6.0			m54257_210915_072622/26083986/ccs_257
+m54257_210425_181849/35979425/ccs	pacbio	uid_375747	26.0	6.0			m54257_210914_041224/36110993/ccs_1135
+m54257_210913_175418/24772880/ccs	pacbio	1316	29.0	6.0			m54257_210425_181849/35979425/ccs_uid_375747
+m54257_210913_175418/17629613/ccs	pacbio	1880	16.0	6.0			m54257_210913_175418/24772880/ccs_1316
+m54257_210914_210835/20251147/ccs	pacbio	80	20.0	6.0			m54257_210913_175418/17629613/ccs_1880
+m54257_210425_012457/16908994/ccs	pacbio	uid_375794	45.0	6.0			m54257_210914_210835/20251147/ccs_80
+m54257_210414_133237/22741972/ccs	pacbio	uid_375664	12.0	6.0			m54257_210425_012457/16908994/ccs_uid_375794
+m54257_210914_210835/14156224/ccs	pacbio	80	45.0	6.0			m54257_210414_133237/22741972/ccs_uid_375664
+m54257_210914_210835/17564188/ccs	pacbio	169	47.0	6.0			m54257_210914_210835/14156224/ccs_80
+							m54257_210914_210835/17564188/ccs_169
