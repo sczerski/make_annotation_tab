@@ -1,5 +1,5 @@
 # make_annotation_tab
-This automated script is designed specifically for creating an annotation table in tsv format following successfull completion of "filter_combine_reads". Please note, this is NOT "filter_combine_reads_v2". A second version of this script will be made for dealing with the differences that are detailed in "filter_combine_reads_v2". 
+This automated script is designed specifically for creating an annotation table in tsv format following successfull completion of "filter_combine_reads". Please note, this is NOT "filter_combine_reads_v2". A second version of this script will be made for dealing with the differences that are detailed in "filter_combine_reads_v2". It is now made and in this repository. See "make_annotation_tab_v2.py". 
 
 Input: 
 
