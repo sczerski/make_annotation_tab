@@ -15,7 +15,7 @@ def create_annotation_tab(all_reads_info_tsv):
             labels_w_strain_names.append(new_value)
 
         #Create Headers
-        header_list = ["name", "type", "label", "passes", "num_identical", "note", "strain_name"]
+        header_list = ["name", "type", "genus_species", "passes", "num_identical", "note", "strain_name"]
 
         #Add Headers to a new tsv file. I want to leave the original data untouched
         a_old_tsv = pd.read_csv(all_reads_info_tsv, delimiter = "\t")
